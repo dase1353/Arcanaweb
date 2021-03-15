@@ -361,8 +361,7 @@ var _assets_sample_json__WEBPACK_IMPORTED_MODULE_1___namespace = /*#__PURE__*/__
 /* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/forms */ "3Pt+");
 /* harmony import */ var primeng_inputtext__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! primeng/inputtext */ "7kUa");
 /* harmony import */ var primeng_inputnumber__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! primeng/inputnumber */ "Ks7X");
-/* harmony import */ var primeng_rating__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! primeng/rating */ "Js94");
-/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @angular/common */ "ofXK");
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @angular/common */ "ofXK");
 
 
 
@@ -373,8 +372,7 @@ var _assets_sample_json__WEBPACK_IMPORTED_MODULE_1___namespace = /*#__PURE__*/__
 
 
 
-
-function AppComponent_ng_template_9_Template(rf, ctx) { if (rf & 1) {
+function AppComponent_ng_template_7_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "tr");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "th");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2, "\u59D3\u540D");
@@ -394,19 +392,19 @@ function AppComponent_ng_template_9_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](11, "tr");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](12, "th");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](13, "p-columnFilter", 18);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](13, "p-columnFilter", 16);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](14, "th");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](15, "p-columnFilter", 19);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](15, "p-columnFilter", 17);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](16, "th");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](17, "p-columnFilter", 20);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](17, "p-columnFilter", 18);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](18, "th");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](19, "p-columnFilter", 21);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](19, "p-columnFilter", 19);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](20, "th");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](21, "p-columnFilter", 22);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](21, "p-columnFilter", 20);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
 } if (rf & 2) {
@@ -421,13 +419,13 @@ function AppComponent_ng_template_9_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("showAddButton", false)("showOperator", false)("showMatchModes", false);
 } }
-function AppComponent_ng_template_10_Template(rf, ctx) { if (rf & 1) {
+function AppComponent_ng_template_8_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "tr");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "td");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](3, "td");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](4, "p-rating", 23);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](5, "td");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](6);
@@ -444,7 +442,7 @@ function AppComponent_ng_template_10_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](info_r18.name);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngModel", info_r18.star)("readonly", true)("cancel", false);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate1"](" ", info_r18.star, " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](info_r18.basejob);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
@@ -452,7 +450,7 @@ function AppComponent_ng_template_10_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](info_r18.class);
 } }
-function AppComponent_ng_template_16_div_0_Template(rf, ctx) { if (rf & 1) {
+function AppComponent_ng_template_14_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
@@ -463,14 +461,14 @@ function AppComponent_ng_template_16_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r19.location1.name);
 } }
-function AppComponent_ng_template_16_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_16_div_0_Template, 3, 1, "div", 24);
+function AppComponent_ng_template_14_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_14_div_0_Template, 3, 1, "div", 21);
 } if (rf & 2) {
     const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r2.location1);
 } }
-function AppComponent_ng_template_17_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 25);
+function AppComponent_ng_template_15_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 22);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -480,7 +478,7 @@ function AppComponent_ng_template_17_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](data_r20.name);
 } }
-function AppComponent_ng_template_19_div_0_Template(rf, ctx) { if (rf & 1) {
+function AppComponent_ng_template_17_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
@@ -491,14 +489,14 @@ function AppComponent_ng_template_19_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r21.location2.name);
 } }
-function AppComponent_ng_template_19_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_19_div_0_Template, 3, 1, "div", 24);
+function AppComponent_ng_template_17_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_17_div_0_Template, 3, 1, "div", 21);
 } if (rf & 2) {
     const ctx_r4 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r4.location2);
 } }
-function AppComponent_ng_template_20_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 25);
+function AppComponent_ng_template_18_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 22);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -508,7 +506,7 @@ function AppComponent_ng_template_20_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](data_r22.name);
 } }
-function AppComponent_ng_template_23_div_0_Template(rf, ctx) { if (rf & 1) {
+function AppComponent_ng_template_21_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
@@ -519,14 +517,14 @@ function AppComponent_ng_template_23_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r23.location3.name);
 } }
-function AppComponent_ng_template_23_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_23_div_0_Template, 3, 1, "div", 24);
+function AppComponent_ng_template_21_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_21_div_0_Template, 3, 1, "div", 21);
 } if (rf & 2) {
     const ctx_r6 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r6.location3);
 } }
-function AppComponent_ng_template_24_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 25);
+function AppComponent_ng_template_22_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 22);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -536,7 +534,7 @@ function AppComponent_ng_template_24_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](data_r24.name);
 } }
-function AppComponent_ng_template_26_div_0_Template(rf, ctx) { if (rf & 1) {
+function AppComponent_ng_template_24_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
@@ -547,14 +545,14 @@ function AppComponent_ng_template_26_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r25.location4.name);
 } }
-function AppComponent_ng_template_26_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_26_div_0_Template, 3, 1, "div", 24);
+function AppComponent_ng_template_24_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_24_div_0_Template, 3, 1, "div", 21);
 } if (rf & 2) {
     const ctx_r8 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r8.location4);
 } }
-function AppComponent_ng_template_27_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 25);
+function AppComponent_ng_template_25_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 22);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -564,7 +562,7 @@ function AppComponent_ng_template_27_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](data_r26.name);
 } }
-function AppComponent_ng_template_30_div_0_Template(rf, ctx) { if (rf & 1) {
+function AppComponent_ng_template_28_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
@@ -575,14 +573,14 @@ function AppComponent_ng_template_30_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r27.location5.name);
 } }
-function AppComponent_ng_template_30_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_30_div_0_Template, 3, 1, "div", 24);
+function AppComponent_ng_template_28_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_28_div_0_Template, 3, 1, "div", 21);
 } if (rf & 2) {
     const ctx_r10 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r10.location5);
 } }
-function AppComponent_ng_template_31_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 25);
+function AppComponent_ng_template_29_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 22);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -592,7 +590,7 @@ function AppComponent_ng_template_31_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](data_r28.name);
 } }
-function AppComponent_ng_template_33_div_0_Template(rf, ctx) { if (rf & 1) {
+function AppComponent_ng_template_31_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
@@ -603,14 +601,14 @@ function AppComponent_ng_template_33_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r29.location6.name);
 } }
-function AppComponent_ng_template_33_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_33_div_0_Template, 3, 1, "div", 24);
+function AppComponent_ng_template_31_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_31_div_0_Template, 3, 1, "div", 21);
 } if (rf & 2) {
     const ctx_r12 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r12.location6);
 } }
-function AppComponent_ng_template_34_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 25);
+function AppComponent_ng_template_32_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 22);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -620,7 +618,7 @@ function AppComponent_ng_template_34_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](data_r30.name);
 } }
-function AppComponent_ng_template_37_div_0_Template(rf, ctx) { if (rf & 1) {
+function AppComponent_ng_template_35_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
@@ -631,14 +629,14 @@ function AppComponent_ng_template_37_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r31.location7.name);
 } }
-function AppComponent_ng_template_37_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_37_div_0_Template, 3, 1, "div", 24);
+function AppComponent_ng_template_35_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_35_div_0_Template, 3, 1, "div", 21);
 } if (rf & 2) {
     const ctx_r14 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r14.location7);
 } }
-function AppComponent_ng_template_38_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 25);
+function AppComponent_ng_template_36_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 22);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -648,7 +646,7 @@ function AppComponent_ng_template_38_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](data_r32.name);
 } }
-function AppComponent_ng_template_40_div_0_Template(rf, ctx) { if (rf & 1) {
+function AppComponent_ng_template_38_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
@@ -659,14 +657,14 @@ function AppComponent_ng_template_40_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r33.location8.name);
 } }
-function AppComponent_ng_template_40_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_40_div_0_Template, 3, 1, "div", 24);
+function AppComponent_ng_template_38_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_38_div_0_Template, 3, 1, "div", 21);
 } if (rf & 2) {
     const ctx_r16 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r16.location8);
 } }
-function AppComponent_ng_template_41_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 25);
+function AppComponent_ng_template_39_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 22);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -676,7 +674,6 @@ function AppComponent_ng_template_41_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](data_r34.name);
 } }
-const _c0 = function () { return [10, 25, 50]; };
 class AppComponent {
     constructor(messageService, primengConfig, filterService) {
         this.messageService = messageService;
@@ -751,218 +748,215 @@ class AppComponent {
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdirectiveInject"](primeng_api__WEBPACK_IMPORTED_MODULE_0__["MessageService"]), _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdirectiveInject"](primeng_api__WEBPACK_IMPORTED_MODULE_0__["PrimeNGConfig"]), _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdirectiveInject"](primeng_api__WEBPACK_IMPORTED_MODULE_0__["FilterService"])); };
-AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], features: [_angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵProvidersFeature"]([primeng_api__WEBPACK_IMPORTED_MODULE_0__["MessageService"]])], decls: 109, vars: 79, consts: [["align", "center", 1, "p-grid"], [1, "p-col-8"], [1, "p-col-4"], [1, "p-col-5"], [1, "p-col-12"], ["styleClass", "p-datatable-gridlines p-datatable-sm p-datatable-striped", "currentPageReportTemplate", "\u986F\u793A {totalRecords} \u7B46\u82F1\u96C4\u8CC7\u6599\u4E2D\u7684\u7B2C {first} \u5230\u7B2C {last}\u7B46", 3, "value", "paginator", "rows", "showCurrentPageReport", "rowsPerPageOptions"], ["pTemplate", "header"], ["pTemplate", "body"], [1, "p-col-2"], ["optionLabel", "name", "filterBy", "name", "placeholder", "\u9078\u64C7\u4E00\u4F4D\u82F1\u96C4", 3, "options", "ngModel", "filter", "showClear", "ngModelChange", "onChange"], ["pTemplate", "selectedItem"], ["pTemplate", "item"], [1, "p-col-12", "p-md-12"], [1, "p-inputgroup"], [1, "p-inputgroup-addon"], ["type", "text", "pInputText", "", "placeholder", "\u9700\u6C42\u91CF", 3, "ngModel", "ngModelChange"], [1, "p-col-3"], ["mode", "decimal", "inputId", "minmax-buttons", 3, "ngModel", "showButtons", "min", "max", "ngModelChange"], ["type", "text", "field", "name", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "star", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "basejob", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "element", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "class", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], [3, "ngModel", "readonly", "cancel"], [4, "ngIf"], [1, "country-item"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
+AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], features: [_angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵProvidersFeature"]([primeng_api__WEBPACK_IMPORTED_MODULE_0__["MessageService"]])], decls: 107, vars: 77, consts: [["align", "center", 1, "p-grid"], [1, "p-col-12", "p-xl-12", "p-lg-12", "p-md-12", "p-sm-12"], [1, "p-col-12", "p-xl-6", "p-lg-12", "p-md-12", "p-sm-12"], [1, "p-col-12"], ["styleClass", "p-datatable-gridlines p-datatable-sm", "currentPageReportTemplate", "\u986F\u793A {totalRecords} \u7B46\u82F1\u96C4\u8CC7\u6599\u4E2D\u7684\u7B2C {first} \u5230\u7B2C {last}\u7B46", 3, "value", "paginator", "rows", "showCurrentPageReport"], ["pTemplate", "header"], ["pTemplate", "body"], [1, "p-col-12", "p-xl-2", "p-lg-4", "p-md-4", "p-sm-12"], ["optionLabel", "name", "filterBy", "name", "placeholder", "\u9078\u64C7\u4E00\u4F4D\u82F1\u96C4", 3, "options", "ngModel", "filter", "showClear", "ngModelChange", "onChange"], ["pTemplate", "selectedItem"], ["pTemplate", "item"], [1, "p-col-12", "p-md-12"], [1, "p-inputgroup"], [1, "p-inputgroup-addon"], ["type", "text", "pInputText", "", "placeholder", "\u9700\u6C42\u91CF", 3, "ngModel", "ngModelChange"], ["mode", "decimal", "inputId", "minmax-buttons", 3, "ngModel", "showButtons", "min", "max", "ngModelChange"], ["type", "text", "field", "name", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "star", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "basejob", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "element", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "class", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], [4, "ngIf"], [1, "country-item"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "h1", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2, "\u963F\u723E\u5361\u7D0D\uFF1A\u547D\u904B\u4E4B\u8F2A - \u968A\u4F0D\u8A08\u6578 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](3, "h3", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](4, "\u963F\u723E\u5361\u7D0D\uFF1A\u547D\u904B\u4E4B\u8F2A - \u968A\u4F0D\u8A08\u6578 \u6CE8\u610F\u4E8B\u9805\uFF1A\u661F\u7D1A\u7684\u7BE9\u9078\u5668\u8ACB\u7528\u6578\u5B57\uFF0C\u5176\u4ED6\u8ACB\u7528\u4E2D\u6587\uFF0C\u672C\u4F86\u662F\u60F3\u7528\u9078\u55AE\u7248\u7684\u7BE9\u9078\u5668\uFF0C\u4F46\u4E00\u76F4\u5931\u6557\u02CA_>\u02CB ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](3, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](4, "h1", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](5, "\u963F\u723E\u5361\u7D0D\uFF1A\u547D\u904B\u4E4B\u8F2A - \u5716\u9451 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](5, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](6, "h1", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](7, "\u963F\u723E\u5361\u7D0D\uFF1A\u547D\u904B\u4E4B\u8F2A - \u5716\u9451 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](6, "p-table", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](7, AppComponent_ng_template_7_Template, 22, 15, "ng-template", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](8, AppComponent_ng_template_8_Template, 11, 5, "ng-template", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](8, "p-table", 5);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](9, AppComponent_ng_template_9_Template, 22, 15, "ng-template", 6);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](10, AppComponent_ng_template_10_Template, 11, 7, "ng-template", 7);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](9, "div", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](10, "h1", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](11, "\u82F1\u96C4\u9078\u64C7 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](11, "div", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](12, "h1", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](13, "\u82F1\u96C4\u9078\u64C7 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](12, "div", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](13, "p-dropdown", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_13_listener($event) { return ctx.location1 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_13_listener($event) { return ctx.onChange($event); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](14, AppComponent_ng_template_14_Template, 1, 1, "ng-template", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](15, AppComponent_ng_template_15_Template, 3, 1, "ng-template", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](14, "div", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](15, "p-dropdown", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_15_listener($event) { return ctx.location1 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_15_listener($event) { return ctx.onChange($event); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](16, AppComponent_ng_template_16_Template, 1, 1, "ng-template", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](17, AppComponent_ng_template_17_Template, 3, 1, "ng-template", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](16, "p-dropdown", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_16_listener($event) { return ctx.location2 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_16_listener($event) { return ctx.onChange($event); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](17, AppComponent_ng_template_17_Template, 1, 1, "ng-template", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](18, AppComponent_ng_template_18_Template, 3, 1, "ng-template", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](18, "p-dropdown", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_18_listener($event) { return ctx.location2 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_18_listener($event) { return ctx.onChange($event); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](19, AppComponent_ng_template_19_Template, 1, 1, "ng-template", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](20, AppComponent_ng_template_20_Template, 3, 1, "ng-template", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](19, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](20, "p-dropdown", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_20_listener($event) { return ctx.location3 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_20_listener($event) { return ctx.onChange($event); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](21, AppComponent_ng_template_21_Template, 1, 1, "ng-template", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](22, AppComponent_ng_template_22_Template, 3, 1, "ng-template", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](21, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](22, "p-dropdown", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_22_listener($event) { return ctx.location3 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_22_listener($event) { return ctx.onChange($event); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](23, AppComponent_ng_template_23_Template, 1, 1, "ng-template", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](24, AppComponent_ng_template_24_Template, 3, 1, "ng-template", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](23, "p-dropdown", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_23_listener($event) { return ctx.location4 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_23_listener($event) { return ctx.onChange($event); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](24, AppComponent_ng_template_24_Template, 1, 1, "ng-template", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](25, AppComponent_ng_template_25_Template, 3, 1, "ng-template", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](25, "p-dropdown", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_25_listener($event) { return ctx.location4 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_25_listener($event) { return ctx.onChange($event); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](26, AppComponent_ng_template_26_Template, 1, 1, "ng-template", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](27, AppComponent_ng_template_27_Template, 3, 1, "ng-template", 11);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](26, "div", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](27, "p-dropdown", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_27_listener($event) { return ctx.location5 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_27_listener($event) { return ctx.onChange($event); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](28, AppComponent_ng_template_28_Template, 1, 1, "ng-template", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](29, AppComponent_ng_template_29_Template, 3, 1, "ng-template", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](28, "div", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](29, "p-dropdown", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_29_listener($event) { return ctx.location5 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_29_listener($event) { return ctx.onChange($event); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](30, AppComponent_ng_template_30_Template, 1, 1, "ng-template", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](31, AppComponent_ng_template_31_Template, 3, 1, "ng-template", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](30, "p-dropdown", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_30_listener($event) { return ctx.location6 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_30_listener($event) { return ctx.onChange($event); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](31, AppComponent_ng_template_31_Template, 1, 1, "ng-template", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](32, AppComponent_ng_template_32_Template, 3, 1, "ng-template", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](32, "p-dropdown", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_32_listener($event) { return ctx.location6 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_32_listener($event) { return ctx.onChange($event); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](33, AppComponent_ng_template_33_Template, 1, 1, "ng-template", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](34, AppComponent_ng_template_34_Template, 3, 1, "ng-template", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](33, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](34, "p-dropdown", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_34_listener($event) { return ctx.location7 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_34_listener($event) { return ctx.onChange($event); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](35, AppComponent_ng_template_35_Template, 1, 1, "ng-template", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](36, AppComponent_ng_template_36_Template, 3, 1, "ng-template", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](35, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](36, "p-dropdown", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_36_listener($event) { return ctx.location7 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_36_listener($event) { return ctx.onChange($event); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](37, AppComponent_ng_template_37_Template, 1, 1, "ng-template", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](38, AppComponent_ng_template_38_Template, 3, 1, "ng-template", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](37, "p-dropdown", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_37_listener($event) { return ctx.location8 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_37_listener($event) { return ctx.onChange($event); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](38, AppComponent_ng_template_38_Template, 1, 1, "ng-template", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](39, AppComponent_ng_template_39_Template, 3, 1, "ng-template", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](39, "p-dropdown", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_dropdown_ngModelChange_39_listener($event) { return ctx.location8 = $event; })("onChange", function AppComponent_Template_p_dropdown_onChange_39_listener($event) { return ctx.onChange($event); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](40, AppComponent_ng_template_40_Template, 1, 1, "ng-template", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](41, AppComponent_ng_template_41_Template, 3, 1, "ng-template", 11);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](40, "div", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](41, "h1", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](42, "\u521D\u59CB\u516B\u68CB\u8A08\u6578 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](42, "div", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](43, "h1", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](44, "\u521D\u59CB\u516B\u68CB\u8A08\u6578 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](43, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](44, "div", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](45, "span", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](46, "\u528D\u58EB\u3000");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](45, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](46, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](47, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](48, "\u528D\u58EB\u3000");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](47, "input", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_47_listener($event) { return ctx.s1 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](49, "input", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_49_listener($event) { return ctx.s1 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](48, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](49, "div", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](50, "span", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](51, "\u5F13\u7BAD\u624B");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](50, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](51, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](52, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](53, "\u5F13\u7BAD\u624B");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](52, "input", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_52_listener($event) { return ctx.s2 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](54, "input", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_54_listener($event) { return ctx.s2 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](53, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](54, "div", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](55, "span", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](56, "\u76DC\u8CCA\u3000");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](55, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](56, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](57, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](58, "\u76DC\u8CCA\u3000");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](57, "input", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_57_listener($event) { return ctx.s3 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](59, "input", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_59_listener($event) { return ctx.s3 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](58, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](59, "div", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](60, "span", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](61, "\u5DEB\u5E2B\u3000");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](60, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](61, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](62, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](63, "\u5DEB\u5E2B\u3000");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](62, "input", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_62_listener($event) { return ctx.s4 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](64, "input", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_64_listener($event) { return ctx.s4 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](63, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](64, "div", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](65, "span", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](66, "\u796D\u53F8\u3000");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](65, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](66, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](67, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](68, "\u796D\u53F8\u3000");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](67, "input", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_67_listener($event) { return ctx.s5 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](69, "input", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_69_listener($event) { return ctx.s5 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](68, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](69, "div", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](70, "span", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](71, "\u6230\u58EB\u3000");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](70, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](71, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](72, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](73, "\u6230\u58EB\u3000");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](72, "input", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_72_listener($event) { return ctx.s6 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](74, "input", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_74_listener($event) { return ctx.s6 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](73, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](74, "div", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](75, "span", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](76, "\u69CD\u8853\u58EB");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](75, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](76, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](77, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](78, "\u69CD\u8853\u58EB");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](77, "input", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_77_listener($event) { return ctx.s7 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](79, "input", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_79_listener($event) { return ctx.s7 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](78, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](79, "div", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](80, "span", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](81, "\u7CBE\u9748\u3000");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](80, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](81, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](82, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](83, "\u7CBE\u9748\u3000");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](82, "input", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_82_listener($event) { return ctx.s8 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](84, "input", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_84_listener($event) { return ctx.s8 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](83, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](84, "div", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](85, "span", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](86, "\u7D71\u8A08\uFF1D");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](85, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](86, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](87, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](88, "\u7D71\u8A08\uFF1D");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](87, "input", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_87_listener($event) { return ctx.total = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](89, "input", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_input_ngModelChange_89_listener($event) { return ctx.total = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](88, "div", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](89, "h1", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](90, "\u5DF2\u53D6\u5F97\u521D\u59CB\u516B\u68CB\u8A08\u6578 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](90, "div", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](91, "h1", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](92, "\u5DF2\u53D6\u5F97\u521D\u59CB\u516B\u68CB\u8A08\u6578 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](91, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](92, "p-inputNumber", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_92_listener($event) { return ctx.value1 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](93, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](94, "p-inputNumber", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_94_listener($event) { return ctx.value1 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](93, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](94, "p-inputNumber", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_94_listener($event) { return ctx.value2 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](95, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](96, "p-inputNumber", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_96_listener($event) { return ctx.value2 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](95, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](96, "p-inputNumber", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_96_listener($event) { return ctx.value3 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](97, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](98, "p-inputNumber", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_98_listener($event) { return ctx.value3 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](97, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](98, "p-inputNumber", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_98_listener($event) { return ctx.value4 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](99, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](100, "p-inputNumber", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_100_listener($event) { return ctx.value4 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](99, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](100, "p-inputNumber", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_100_listener($event) { return ctx.value5 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](101, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](102, "p-inputNumber", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_102_listener($event) { return ctx.value5 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](101, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](102, "p-inputNumber", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_102_listener($event) { return ctx.value6 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](103, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](104, "p-inputNumber", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_104_listener($event) { return ctx.value6 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](103, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](104, "p-inputNumber", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_104_listener($event) { return ctx.value7 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](105, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](106, "p-inputNumber", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_106_listener($event) { return ctx.value7 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](107, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](108, "p-inputNumber", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_108_listener($event) { return ctx.value8 = $event; });
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](105, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](106, "p-inputNumber", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("ngModelChange", function AppComponent_Template_p_inputNumber_ngModelChange_106_listener($event) { return ctx.value8 = $event; });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
     } if (rf & 2) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("value", ctx.info)("paginator", true)("rows", 10)("showCurrentPageReport", true)("rowsPerPageOptions", _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵpureFunction0"](78, _c0));
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("value", ctx.info)("paginator", true)("rows", 30)("showCurrentPageReport", true);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](7);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("options", ctx.info)("ngModel", ctx.location1)("filter", true)("showClear", true);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](3);
@@ -1013,7 +1007,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngModel", ctx.value7)("showButtons", true)("min", 0)("max", 100);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](2);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngModel", ctx.value8)("showButtons", true)("min", 0)("max", 100);
-    } }, directives: [primeng_table__WEBPACK_IMPORTED_MODULE_3__["Table"], primeng_api__WEBPACK_IMPORTED_MODULE_0__["PrimeTemplate"], primeng_dropdown__WEBPACK_IMPORTED_MODULE_4__["Dropdown"], _angular_forms__WEBPACK_IMPORTED_MODULE_5__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_5__["NgModel"], _angular_forms__WEBPACK_IMPORTED_MODULE_5__["DefaultValueAccessor"], primeng_inputtext__WEBPACK_IMPORTED_MODULE_6__["InputText"], primeng_inputnumber__WEBPACK_IMPORTED_MODULE_7__["InputNumber"], primeng_table__WEBPACK_IMPORTED_MODULE_3__["ColumnFilter"], primeng_rating__WEBPACK_IMPORTED_MODULE_8__["Rating"], _angular_common__WEBPACK_IMPORTED_MODULE_9__["NgIf"]], styles: ["[_nghost-%COMP%]     .p-chip.custom-chip1 {\n  background: var(--bluegray-200);\n  color: black;\n  width: 130px;\n  height: 30px;\n}\n\n[_nghost-%COMP%]     .p-chip.custom-chip2 {\n  background: var(--green-200);\n  color: black;\n  width: 130px;\n  height: 30px;\n}\n\n[_nghost-%COMP%]     .p-chip.custom-chip3 {\n  background: var(--blue-200);\n  color: black;\n  width: 130px;\n  height: 30px;\n}\n\n[_nghost-%COMP%]     .p-chip.custom-chip4 {\n  background: var(--purple-200);\n  color: black;\n  width: 130px;\n  height: 30px;\n}\n\n[_nghost-%COMP%]     .p-chip.custom-chip5 {\n  background: var(--yellow-200);\n  color: black;\n  width: 130px;\n  height: 30px;\n}\n\n[_nghost-%COMP%]     .p-chip.custom-chip6 {\n  background: var(--pink-400);\n  color: black;\n  width: 130px;\n  height: 30px;\n}\n\n[_nghost-%COMP%]     .p-dropdown {\n  width: 180px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uXFwuLlxcYXBwLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsK0JBQUE7RUFDQSxZQUFBO0VBQ0EsWUFBQTtFQUNBLFlBQUE7QUFDRjs7QUFFQTtFQUNFLDRCQUFBO0VBQ0EsWUFBQTtFQUNBLFlBQUE7RUFDQSxZQUFBO0FBQ0Y7O0FBQ0E7RUFDRSwyQkFBQTtFQUNBLFlBQUE7RUFDQSxZQUFBO0VBQ0EsWUFBQTtBQUVGOztBQUFBO0VBQ0UsNkJBQUE7RUFDQSxZQUFBO0VBQ0EsWUFBQTtFQUNBLFlBQUE7QUFHRjs7QUFBQTtFQUNFLDZCQUFBO0VBQ0EsWUFBQTtFQUNBLFlBQUE7RUFDQSxZQUFBO0FBR0Y7O0FBQUE7RUFDRSwyQkFBQTtFQUNBLFlBQUE7RUFDQSxZQUFBO0VBQ0EsWUFBQTtBQUdGOztBQUFBO0VBQ0UsWUFBQTtBQUdGIiwiZmlsZSI6ImFwcC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIjpob3N0IDo6bmctZGVlcCAucC1jaGlwLmN1c3RvbS1jaGlwMSB7XHJcbiAgYmFja2dyb3VuZDogdmFyKC0tYmx1ZWdyYXktMjAwKTtcclxuICBjb2xvcjogYmxhY2s7XHJcbiAgd2lkdGg6IDEzMHB4O1xyXG4gIGhlaWdodDogMzBweDtcclxufVxyXG5cclxuOmhvc3QgOjpuZy1kZWVwIC5wLWNoaXAuY3VzdG9tLWNoaXAyIHtcclxuICBiYWNrZ3JvdW5kOiB2YXIoLS1ncmVlbi0yMDApO1xyXG4gIGNvbG9yOiBibGFjaztcclxuICB3aWR0aDogMTMwcHg7XHJcbiAgaGVpZ2h0OiAzMHB4O1xyXG59XHJcbjpob3N0IDo6bmctZGVlcCAucC1jaGlwLmN1c3RvbS1jaGlwMyB7XHJcbiAgYmFja2dyb3VuZDogdmFyKC0tYmx1ZS0yMDApO1xyXG4gIGNvbG9yOiBibGFjaztcclxuICB3aWR0aDogMTMwcHg7XHJcbiAgaGVpZ2h0OiAzMHB4O1xyXG59XHJcbjpob3N0IDo6bmctZGVlcCAucC1jaGlwLmN1c3RvbS1jaGlwNCB7XHJcbiAgYmFja2dyb3VuZDogdmFyKC0tcHVycGxlLTIwMCk7XHJcbiAgY29sb3I6IGJsYWNrO1xyXG4gIHdpZHRoOiAxMzBweDtcclxuICBoZWlnaHQ6IDMwcHg7XHJcbn1cclxuXHJcbjpob3N0IDo6bmctZGVlcCAucC1jaGlwLmN1c3RvbS1jaGlwNSB7XHJcbiAgYmFja2dyb3VuZDogdmFyKC0teWVsbG93LTIwMCk7XHJcbiAgY29sb3I6IGJsYWNrO1xyXG4gIHdpZHRoOiAxMzBweDtcclxuICBoZWlnaHQ6IDMwcHg7XHJcbn1cclxuXHJcbjpob3N0IDo6bmctZGVlcCAucC1jaGlwLmN1c3RvbS1jaGlwNiB7XHJcbiAgYmFja2dyb3VuZDogdmFyKC0tcGluay00MDApO1xyXG4gIGNvbG9yOiBibGFjaztcclxuICB3aWR0aDogMTMwcHg7XHJcbiAgaGVpZ2h0OiAzMHB4O1xyXG59XHJcblxyXG46aG9zdCA6Om5nLWRlZXAgLnAtZHJvcGRvd24ge1xyXG4gIHdpZHRoOiAxODBweDtcclxufVxyXG4iXX0= */"] });
+    } }, directives: [primeng_table__WEBPACK_IMPORTED_MODULE_3__["Table"], primeng_api__WEBPACK_IMPORTED_MODULE_0__["PrimeTemplate"], primeng_dropdown__WEBPACK_IMPORTED_MODULE_4__["Dropdown"], _angular_forms__WEBPACK_IMPORTED_MODULE_5__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_5__["NgModel"], _angular_forms__WEBPACK_IMPORTED_MODULE_5__["DefaultValueAccessor"], primeng_inputtext__WEBPACK_IMPORTED_MODULE_6__["InputText"], primeng_inputnumber__WEBPACK_IMPORTED_MODULE_7__["InputNumber"], primeng_table__WEBPACK_IMPORTED_MODULE_3__["ColumnFilter"], _angular_common__WEBPACK_IMPORTED_MODULE_8__["NgIf"]], styles: ["[_nghost-%COMP%]     .p-dropdown {\n  width: 180px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uXFwuLlxcYXBwLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsWUFBQTtBQUNGIiwiZmlsZSI6ImFwcC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIjpob3N0IDo6bmctZGVlcCAucC1kcm9wZG93biB7XHJcbiAgd2lkdGg6IDE4MHB4O1xyXG59XHJcbiJdfQ== */"] });
 
 
 /***/ }),
@@ -1314,10 +1308,10 @@ SharedPrimengModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_87__["ɵɵdef
 /*!********************************!*\
   !*** ./src/assets/sample.json ***!
   \********************************/
-/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, default */
+/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("[{\"index\":1,\"name\":\"劍士\",\"star\":1,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"防禦\",\"s1\":1,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":2,\"name\":\"弓箭手\",\"star\":1,\"basejob\":\"弓箭手\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":3,\"name\":\"盜賊\",\"star\":1,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":4,\"name\":\"巫師\",\"star\":1,\"basejob\":\"巫師\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":5,\"name\":\"祭司\",\"star\":1,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":6,\"name\":\"戰士\",\"star\":1,\"basejob\":\"戰士\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":7,\"name\":\"槍術士\",\"star\":1,\"basejob\":\"槍術士\",\"element\":\"冰霜\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":8,\"name\":\"精靈\",\"star\":1,\"basejob\":\"精靈\",\"element\":\"鋼鐵\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":9,\"name\":\"魔劍士\",\"star\":2,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":1,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":10,\"name\":\"狙擊手\",\"star\":2,\"basejob\":\"弓箭手\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":0,\"s2\":2,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":11,\"name\":\"刺客\",\"star\":2,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":2,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":12,\"name\":\"法師\",\"star\":2,\"basejob\":\"巫師\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":13,\"name\":\"德魯伊\",\"star\":2,\"basejob\":\"祭司\",\"element\":\"自然\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":14,\"name\":\"異邦人\",\"star\":2,\"basejob\":\"戰士\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":0,\"s8\":0},{\"index\":15,\"name\":\"護衛\",\"star\":2,\"basejob\":\"槍術士\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":2,\"s8\":0},{\"index\":16,\"name\":\"魔法師\",\"star\":2,\"basejob\":\"精靈\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":17,\"name\":\"聖騎士\",\"star\":2,\"basejob\":\"劍士\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":18,\"name\":\"追擊者\",\"star\":2,\"basejob\":\"弓箭手\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":19,\"name\":\"忍者\",\"star\":2,\"basejob\":\"盜賊\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":1,\"s2\":0,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":20,\"name\":\"薩滿\",\"star\":2,\"basejob\":\"巫師\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":21,\"name\":\"吟遊詩人\",\"star\":2,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":22,\"name\":\"武僧\",\"star\":2,\"basejob\":\"戰士\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":1},{\"index\":23,\"name\":\"擊劍士\",\"star\":2,\"basejob\":\"槍術士\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":24,\"name\":\"鐵匠\",\"star\":2,\"basejob\":\"精靈\",\"element\":\"火焰\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":25,\"name\":\"符文騎士\",\"star\":3,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":3,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":26,\"name\":\"童軍\",\"star\":3,\"basejob\":\"弓箭手\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":3,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":27,\"name\":\"復仇者\",\"star\":3,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"防禦\",\"s1\":1,\"s2\":0,\"s3\":3,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":28,\"name\":\"祈求者\",\"star\":3,\"basejob\":\"巫師\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":2,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":29,\"name\":\"守望者\",\"star\":3,\"basejob\":\"祭司\",\"element\":\"自然\",\"class\":\"防禦\",\"s1\":0,\"s2\":1,\"s3\":2,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":30,\"name\":\"狂戰士\",\"star\":3,\"basejob\":\"戰士\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":2,\"s7\":0,\"s8\":0},{\"index\":31,\"name\":\"騎士\",\"star\":3,\"basejob\":\"槍術士\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":3,\"s8\":0},{\"index\":32,\"name\":\"使役魔\",\"star\":3,\"basejob\":\"精靈\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":1,\"s7\":0,\"s8\":1},{\"index\":33,\"name\":\"高地人\",\"star\":3,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":1,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":2,\"s8\":1},{\"index\":34,\"name\":\"遊俠\",\"star\":3,\"basejob\":\"弓箭手\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":0,\"s2\":3,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":35,\"name\":\"殺手\",\"star\":3,\"basejob\":\"盜賊\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":2,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":36,\"name\":\"術士\",\"star\":3,\"basejob\":\"巫師\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":2,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":37,\"name\":\"樂師\",\"star\":3,\"basejob\":\"祭司\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":2,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":38,\"name\":\"角鬥士\",\"star\":3,\"basejob\":\"戰士\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":3,\"s7\":0,\"s8\":1},{\"index\":39,\"name\":\"狂暴槍士\",\"star\":3,\"basejob\":\"槍術士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":1,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":2,\"s8\":0},{\"index\":40,\"name\":\"高階精靈\",\"star\":3,\"basejob\":\"精靈\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":3},{\"index\":41,\"name\":\"防衛者\",\"star\":3,\"basejob\":\"劍士\",\"element\":\"暗黑\",\"class\":\"防禦\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":0,\"s8\":0},{\"index\":42,\"name\":\"獵人\",\"star\":3,\"basejob\":\"弓箭手\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":2,\"s3\":1,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":43,\"name\":\"武士\",\"star\":3,\"basejob\":\"盜賊\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":44,\"name\":\"死靈法師\",\"star\":3,\"basejob\":\"巫師\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":3,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":45,\"name\":\"修女\",\"star\":3,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":3,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":46,\"name\":\"武術家\",\"star\":3,\"basejob\":\"戰士\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":1},{\"index\":47,\"name\":\"指揮家\",\"star\":3,\"basejob\":\"槍術士\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":2,\"s8\":0},{\"index\":48,\"name\":\"機械工匠\",\"star\":3,\"basejob\":\"精靈\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":1,\"s7\":1,\"s8\":2},{\"index\":49,\"name\":\"十字軍\",\"star\":3,\"basejob\":\"劍士\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":3,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":50,\"name\":\"毒刺\",\"star\":3,\"basejob\":\"弓箭手\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":0,\"s2\":2,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":51,\"name\":\"流浪者\",\"star\":3,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":1,\"s2\":0,\"s3\":1,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":52,\"name\":\"超能力者\",\"star\":3,\"basejob\":\"巫師\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":1,\"s4\":1,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":53,\"name\":\"朝聖者\",\"star\":3,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":0,\"s2\":1,\"s3\":1,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":54,\"name\":\"符文大師\",\"star\":3,\"basejob\":\"戰士\",\"element\":\"火焰\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":0,\"s6\":2,\"s7\":0,\"s8\":1},{\"index\":55,\"name\":\"浪人劍客\",\"star\":3,\"basejob\":\"槍術士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":2,\"s8\":0},{\"index\":56,\"name\":\"寧芙\",\"star\":3,\"basejob\":\"精靈\",\"element\":\"自然\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":2,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":57,\"name\":\"女武神\",\"star\":4,\"basejob\":\"劍士\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":3,\"s2\":1,\"s3\":2,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":58,\"name\":\"風行者\",\"star\":4,\"basejob\":\"弓箭手\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":5,\"s3\":2,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":59,\"name\":\"小丑\",\"star\":4,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"輔助\",\"s1\":2,\"s2\":0,\"s3\":1,\"s4\":1,\"s5\":2,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":60,\"name\":\"大魔法師\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"火焰\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":2,\"s4\":4,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":61,\"name\":\"聖殿騎士\",\"star\":4,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":3,\"s6\":2,\"s7\":0,\"s8\":0},{\"index\":62,\"name\":\"破壞者\",\"star\":4,\"basejob\":\"戰士\",\"element\":\"冰霜\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":4,\"s7\":1,\"s8\":3},{\"index\":63,\"name\":\"守護者\",\"star\":4,\"basejob\":\"槍術士\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":1,\"s2\":2,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":5,\"s8\":0},{\"index\":64,\"name\":\"煉金術師\",\"star\":4,\"basejob\":\"精靈\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":0,\"s2\":3,\"s3\":0,\"s4\":0,\"s5\":2,\"s6\":0,\"s7\":1,\"s8\":2},{\"index\":65,\"name\":\"死亡騎士\",\"star\":4,\"basejob\":\"劍士\",\"element\":\"暗黑\",\"class\":\"防禦\",\"s1\":3,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":2,\"s7\":1,\"s8\":0},{\"index\":66,\"name\":\"魔射手\",\"star\":4,\"basejob\":\"弓箭手\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":1,\"s2\":2,\"s3\":4,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":67,\"name\":\"高階刺客\",\"star\":4,\"basejob\":\"盜賊\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":3,\"s2\":0,\"s3\":4,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":68,\"name\":\"暗黑術師\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":3,\"s4\":3,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":69,\"name\":\"占星術師\",\"star\":4,\"basejob\":\"祭司\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":2,\"s4\":2,\"s5\":2,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":70,\"name\":\"維京人\",\"star\":4,\"basejob\":\"戰士\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":3,\"s2\":0,\"s3\":1,\"s4\":1,\"s5\":0,\"s6\":2,\"s7\":0,\"s8\":1},{\"index\":71,\"name\":\"神聖三叉戟\",\"star\":4,\"basejob\":\"槍術士\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":5,\"s7\":2,\"s8\":1},{\"index\":72,\"name\":\"驅魔師\",\"star\":4,\"basejob\":\"精靈\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":2,\"s7\":1,\"s8\":3},{\"index\":73,\"name\":\"皇家守衛\",\"star\":4,\"basejob\":\"劍士\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":3,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":2,\"s8\":1},{\"index\":74,\"name\":\"掠奪者\",\"star\":4,\"basejob\":\"弓箭手\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":6,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":75,\"name\":\"屠龍者\",\"star\":4,\"basejob\":\"盜賊\",\"element\":\"火焰\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":2,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":3,\"s8\":1},{\"index\":76,\"name\":\"噬魂者\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":1,\"s4\":3,\"s5\":0,\"s6\":1,\"s7\":1,\"s8\":0},{\"index\":77,\"name\":\"墮落修女\",\"star\":4,\"basejob\":\"祭司\",\"element\":\"暗黑\",\"class\":\"輔助\",\"s1\":1,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":3,\"s6\":0,\"s7\":2,\"s8\":0},{\"index\":78,\"name\":\"冠軍\",\"star\":4,\"basejob\":\"戰士\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":4,\"s7\":0,\"s8\":2},{\"index\":79,\"name\":\"先鋒\",\"star\":4,\"basejob\":\"槍術士\",\"element\":\"暗黑\",\"class\":\"防禦\",\"s1\":1,\"s2\":2,\"s3\":1,\"s4\":1,\"s5\":0,\"s6\":1,\"s7\":2,\"s8\":0},{\"index\":80,\"name\":\"沙羅曼達\",\"star\":4,\"basejob\":\"精靈\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":1,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":2,\"s8\":4},{\"index\":81,\"name\":\"劍詠者\",\"star\":4,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":4,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":3,\"s8\":1},{\"index\":82,\"name\":\"海軍司令\",\"star\":4,\"basejob\":\"弓箭手\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":2,\"s2\":3,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":1,\"s8\":0},{\"index\":83,\"name\":\"影舞者\",\"star\":4,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":4,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":84,\"name\":\"秘術師\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"暗黑\",\"class\":\"輔助\",\"s1\":0,\"s2\":2,\"s3\":1,\"s4\":3,\"s5\":1,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":85,\"name\":\"主教\",\"star\":4,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":5,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":86,\"name\":\"獸人戰士\",\"star\":4,\"basejob\":\"戰士\",\"element\":\"自然\",\"class\":\"防禦\",\"s1\":0,\"s2\":1,\"s3\":2,\"s4\":1,\"s5\":2,\"s6\":2,\"s7\":0,\"s8\":0},{\"index\":87,\"name\":\"審判者\",\"star\":4,\"basejob\":\"槍術士\",\"element\":\"自然\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":5,\"s8\":0},{\"index\":88,\"name\":\"溫蒂妮\",\"star\":4,\"basejob\":\"精靈\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":2,\"s8\":3},{\"index\":89,\"name\":\"決鬥者\",\"star\":4,\"basejob\":\"劍士\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":3,\"s2\":0,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":3},{\"index\":90,\"name\":\"上古射手\",\"star\":4,\"basejob\":\"弓箭手\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":0,\"s2\":5,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":91,\"name\":\"攔截者\",\"star\":4,\"basejob\":\"盜賊\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":3,\"s3\":2,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":2,\"s8\":1},{\"index\":92,\"name\":\"龍族巫女\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"火焰\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":3,\"s5\":1,\"s6\":2,\"s7\":0,\"s8\":2},{\"index\":93,\"name\":\"聖徒\",\"star\":4,\"basejob\":\"祭司\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":2,\"s3\":1,\"s4\":1,\"s5\":3,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":94,\"name\":\"盜劍客\",\"star\":4,\"basejob\":\"戰士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":3,\"s2\":0,\"s3\":1,\"s4\":2,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":1},{\"index\":95,\"name\":\"馴獸師\",\"star\":4,\"basejob\":\"槍術士\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":0,\"s2\":2,\"s3\":1,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":3,\"s8\":0},{\"index\":96,\"name\":\"西爾芙\",\"star\":4,\"basejob\":\"精靈\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":1,\"s7\":0,\"s8\":4},{\"index\":97,\"name\":\"狂亂者\",\"star\":4,\"basejob\":\"劍士\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":3,\"s2\":0,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":2,\"s8\":0},{\"index\":98,\"name\":\"海盜\",\"star\":4,\"basejob\":\"弓箭手\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":1,\"s2\":2,\"s3\":1,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":99,\"name\":\"歐西里斯\",\"star\":4,\"basejob\":\"盜賊\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":2,\"s4\":0,\"s5\":2,\"s6\":0,\"s7\":1,\"s8\":2},{\"index\":100,\"name\":\"炸彈客\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"鋼鐵\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":1,\"s4\":2,\"s5\":1,\"s6\":2,\"s7\":0,\"s8\":1},{\"index\":101,\"name\":\"風之治癒者\",\"star\":4,\"basejob\":\"祭司\",\"element\":\"自然\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":1,\"s4\":2,\"s5\":3,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":102,\"name\":\"野蠻人\",\"star\":4,\"basejob\":\"戰士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":0,\"s6\":3,\"s7\":0,\"s8\":2},{\"index\":103,\"name\":\"操作員\",\"star\":4,\"basejob\":\"槍術士\",\"element\":\"鋼鐵\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":1,\"s7\":3,\"s8\":2},{\"index\":104,\"name\":\"暗影\",\"star\":4,\"basejob\":\"精靈\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":2,\"s5\":2,\"s6\":3,\"s7\":0,\"s8\":1},{\"index\":105,\"name\":\"西貝拉\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":2,\"s4\":5,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":106,\"name\":\"暗黑女武神\",\"star\":5,\"basejob\":\"劍士\",\"element\":\"暗黑\",\"class\":\"防禦\",\"s1\":3,\"s2\":1,\"s3\":3,\"s4\":4,\"s5\":1,\"s6\":3,\"s7\":1,\"s8\":0},{\"index\":107,\"name\":\"靈魂射手\",\"star\":5,\"basejob\":\"弓箭手\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":1,\"s2\":7,\"s3\":6,\"s4\":0,\"s5\":2,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":108,\"name\":\"賞金獵人\",\"star\":5,\"basejob\":\"盜賊\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":2,\"s2\":0,\"s3\":2,\"s4\":1,\"s5\":0,\"s6\":5,\"s7\":3,\"s8\":3},{\"index\":109,\"name\":\"首席魔法師\",\"star\":5,\"basejob\":\"巫師\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":5,\"s4\":7,\"s5\":1,\"s6\":1,\"s7\":0,\"s8\":1},{\"index\":110,\"name\":\"至尊九尾狐\",\"star\":5,\"basejob\":\"祭司\",\"element\":\"火焰\",\"class\":\"輔助\",\"s1\":2,\"s2\":1,\"s3\":2,\"s4\":1,\"s5\":5,\"s6\":4,\"s7\":0,\"s8\":0},{\"index\":111,\"name\":\"地獄使者\",\"star\":5,\"basejob\":\"戰士\",\"element\":\"冰霜\",\"class\":\"防禦\",\"s1\":2,\"s2\":1,\"s3\":2,\"s4\":2,\"s5\":2,\"s6\":5,\"s7\":0,\"s8\":2},{\"index\":112,\"name\":\"天空騎士\",\"star\":5,\"basejob\":\"槍術士\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":1,\"s2\":2,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":5,\"s7\":7,\"s8\":1},{\"index\":113,\"name\":\"伊弗利特\",\"star\":5,\"basejob\":\"精靈\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":1,\"s2\":5,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":3,\"s8\":5},{\"index\":114,\"name\":\"龍騎士\",\"star\":5,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"防禦\",\"s1\":6,\"s2\":1,\"s3\":2,\"s4\":0,\"s5\":1,\"s6\":2,\"s7\":3,\"s8\":1},{\"index\":115,\"name\":\"暗黑流浪者\",\"star\":5,\"basejob\":\"弓箭手\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":2,\"s2\":6,\"s3\":5,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":116,\"name\":\"月光銀刃\",\"star\":5,\"basejob\":\"盜賊\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":3,\"s2\":1,\"s3\":3,\"s4\":0,\"s5\":2,\"s6\":2,\"s7\":3,\"s8\":2},{\"index\":117,\"name\":\"賢者\",\"star\":5,\"basejob\":\"巫師\",\"element\":\"自然\",\"class\":\"輔助\",\"s1\":0,\"s2\":2,\"s3\":1,\"s4\":4,\"s5\":6,\"s6\":1,\"s7\":0,\"s8\":1},{\"index\":118,\"name\":\"混沌宿主\",\"star\":5,\"basejob\":\"祭司\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":3,\"s2\":1,\"s3\":1,\"s4\":3,\"s5\":3,\"s6\":1,\"s7\":3,\"s8\":0},{\"index\":119,\"name\":\"神之手\",\"star\":5,\"basejob\":\"戰士\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":8,\"s7\":1,\"s8\":5},{\"index\":120,\"name\":\"迪朗達爾\",\"star\":5,\"basejob\":\"槍術士\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":1,\"s2\":2,\"s3\":1,\"s4\":2,\"s5\":1,\"s6\":2,\"s7\":5,\"s8\":2},{\"index\":121,\"name\":\"依萊恩\",\"star\":5,\"basejob\":\"精靈\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":2,\"s5\":2,\"s6\":2,\"s7\":3,\"s8\":6},{\"index\":122,\"name\":\"劍術大師\",\"star\":5,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":7,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":5,\"s8\":2},{\"index\":123,\"name\":\"獵鷹\",\"star\":5,\"basejob\":\"弓箭手\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":4,\"s2\":3,\"s3\":1,\"s4\":1,\"s5\":2,\"s6\":2,\"s7\":2,\"s8\":1},{\"index\":124,\"name\":\"狂舞僧\",\"star\":5,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":5,\"s2\":0,\"s3\":5,\"s4\":1,\"s5\":2,\"s6\":0,\"s7\":2,\"s8\":1},{\"index\":125,\"name\":\"吸血鬼\",\"star\":5,\"basejob\":\"巫師\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":3,\"s4\":7,\"s5\":1,\"s6\":3,\"s7\":0,\"s8\":1},{\"index\":126,\"name\":\"大天使\",\"star\":5,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":2,\"s4\":3,\"s5\":7,\"s6\":0,\"s7\":0,\"s8\":2},{\"index\":127,\"name\":\"喵喵拳手\",\"star\":5,\"basejob\":\"戰士\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":3,\"s2\":1,\"s3\":2,\"s4\":4,\"s5\":1,\"s6\":3,\"s7\":0,\"s8\":2},{\"index\":128,\"name\":\"戰神\",\"star\":5,\"basejob\":\"槍術士\",\"element\":\"鋼鐵\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":5,\"s7\":7,\"s8\":1},{\"index\":129,\"name\":\"西爾芙德\",\"star\":5,\"basejob\":\"精靈\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":3,\"s5\":3,\"s6\":4,\"s7\":0,\"s8\":5},{\"index\":130,\"name\":\"阿瓦隆\",\"star\":5,\"basejob\":\"劍士\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":5,\"s2\":3,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":4,\"s7\":3,\"s8\":0},{\"index\":131,\"name\":\"亡命之徒\",\"star\":5,\"basejob\":\"弓箭手\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":1,\"s2\":7,\"s3\":5,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":132,\"name\":\"護衛暗影\",\"star\":5,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":5,\"s2\":0,\"s3\":8,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":133,\"name\":\"操偶師\",\"star\":5,\"basejob\":\"巫師\",\"element\":\"火焰\",\"class\":\"輔助\",\"s1\":2,\"s2\":1,\"s3\":2,\"s4\":5,\"s5\":3,\"s6\":1,\"s7\":1,\"s8\":1},{\"index\":134,\"name\":\"毒后\",\"star\":5,\"basejob\":\"祭司\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":6,\"s3\":4,\"s4\":2,\"s5\":3,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":135,\"name\":\"繪夢師\",\"star\":5,\"basejob\":\"戰士\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":2,\"s4\":0,\"s5\":2,\"s6\":4,\"s7\":2,\"s8\":5},{\"index\":136,\"name\":\"聖潔公主\",\"star\":5,\"basejob\":\"槍術士\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":0,\"s2\":1,\"s3\":1,\"s4\":3,\"s5\":4,\"s6\":1,\"s7\":3,\"s8\":3},{\"index\":137,\"name\":\"解放者\",\"star\":5,\"basejob\":\"精靈\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":3,\"s2\":1,\"s3\":2,\"s4\":1,\"s5\":2,\"s6\":2,\"s7\":2,\"s8\":3},{\"index\":138,\"name\":\"靈魂槍術士\",\"star\":5,\"basejob\":\"槍術士\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":1,\"s2\":4,\"s3\":1,\"s4\":3,\"s5\":1,\"s6\":1,\"s7\":5,\"s8\":0},{\"index\":139,\"name\":\"厄瑞玻斯\",\"star\":5,\"basejob\":\"精靈\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":1,\"s2\":1,\"s3\":0,\"s4\":2,\"s5\":5,\"s6\":3,\"s7\":2,\"s8\":1},{\"index\":140,\"name\":\"暴風長槍手\",\"star\":5,\"basejob\":\"槍術士\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":1,\"s2\":1,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":7,\"s8\":4},{\"index\":141,\"name\":\"6星1號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":142,\"name\":\"6星2號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":143,\"name\":\"6星3號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":144,\"name\":\"6星4號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":145,\"name\":\"6星5號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":146,\"name\":\"6星6號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":147,\"name\":\"6星7號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0}]");
+module.exports = JSON.parse("[{\"index\":1,\"name\":\"請選擇英雄\",\"star\":0,\"basejob\":\"佔位用\",\"element\":\"零消耗\",\"class\":\"無敵\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":1,\"name\":\"劍士\",\"star\":1,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"防禦\",\"s1\":1,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":2,\"name\":\"弓箭手\",\"star\":1,\"basejob\":\"弓箭手\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":3,\"name\":\"盜賊\",\"star\":1,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":4,\"name\":\"巫師\",\"star\":1,\"basejob\":\"巫師\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":5,\"name\":\"祭司\",\"star\":1,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":6,\"name\":\"戰士\",\"star\":1,\"basejob\":\"戰士\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":7,\"name\":\"槍術士\",\"star\":1,\"basejob\":\"槍術士\",\"element\":\"冰霜\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":8,\"name\":\"精靈\",\"star\":1,\"basejob\":\"精靈\",\"element\":\"鋼鐵\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":9,\"name\":\"魔劍士\",\"star\":2,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":1,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":10,\"name\":\"狙擊手\",\"star\":2,\"basejob\":\"弓箭手\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":0,\"s2\":2,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":11,\"name\":\"刺客\",\"star\":2,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":2,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":12,\"name\":\"法師\",\"star\":2,\"basejob\":\"巫師\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":13,\"name\":\"德魯伊\",\"star\":2,\"basejob\":\"祭司\",\"element\":\"自然\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":14,\"name\":\"異邦人\",\"star\":2,\"basejob\":\"戰士\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":0,\"s8\":0},{\"index\":15,\"name\":\"護衛\",\"star\":2,\"basejob\":\"槍術士\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":2,\"s8\":0},{\"index\":16,\"name\":\"魔法師\",\"star\":2,\"basejob\":\"精靈\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":17,\"name\":\"聖騎士\",\"star\":2,\"basejob\":\"劍士\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":18,\"name\":\"追擊者\",\"star\":2,\"basejob\":\"弓箭手\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":19,\"name\":\"忍者\",\"star\":2,\"basejob\":\"盜賊\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":1,\"s2\":0,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":20,\"name\":\"薩滿\",\"star\":2,\"basejob\":\"巫師\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":21,\"name\":\"吟遊詩人\",\"star\":2,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":22,\"name\":\"武僧\",\"star\":2,\"basejob\":\"戰士\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":1},{\"index\":23,\"name\":\"擊劍士\",\"star\":2,\"basejob\":\"槍術士\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":24,\"name\":\"鐵匠\",\"star\":2,\"basejob\":\"精靈\",\"element\":\"火焰\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":25,\"name\":\"符文騎士\",\"star\":3,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":3,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":26,\"name\":\"童軍\",\"star\":3,\"basejob\":\"弓箭手\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":3,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":27,\"name\":\"復仇者\",\"star\":3,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"防禦\",\"s1\":1,\"s2\":0,\"s3\":3,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":28,\"name\":\"祈求者\",\"star\":3,\"basejob\":\"巫師\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":2,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":29,\"name\":\"守望者\",\"star\":3,\"basejob\":\"祭司\",\"element\":\"自然\",\"class\":\"防禦\",\"s1\":0,\"s2\":1,\"s3\":2,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":30,\"name\":\"狂戰士\",\"star\":3,\"basejob\":\"戰士\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":2,\"s7\":0,\"s8\":0},{\"index\":31,\"name\":\"騎士\",\"star\":3,\"basejob\":\"槍術士\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":3,\"s8\":0},{\"index\":32,\"name\":\"使役魔\",\"star\":3,\"basejob\":\"精靈\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":1,\"s7\":0,\"s8\":1},{\"index\":33,\"name\":\"高地人\",\"star\":3,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":1,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":2,\"s8\":1},{\"index\":34,\"name\":\"遊俠\",\"star\":3,\"basejob\":\"弓箭手\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":0,\"s2\":3,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":35,\"name\":\"殺手\",\"star\":3,\"basejob\":\"盜賊\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":2,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":36,\"name\":\"術士\",\"star\":3,\"basejob\":\"巫師\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":2,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":37,\"name\":\"樂師\",\"star\":3,\"basejob\":\"祭司\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":2,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":38,\"name\":\"角鬥士\",\"star\":3,\"basejob\":\"戰士\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":3,\"s7\":0,\"s8\":1},{\"index\":39,\"name\":\"狂暴槍士\",\"star\":3,\"basejob\":\"槍術士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":1,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":2,\"s8\":0},{\"index\":40,\"name\":\"高階精靈\",\"star\":3,\"basejob\":\"精靈\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":3},{\"index\":41,\"name\":\"防衛者\",\"star\":3,\"basejob\":\"劍士\",\"element\":\"暗黑\",\"class\":\"防禦\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":0,\"s8\":0},{\"index\":42,\"name\":\"獵人\",\"star\":3,\"basejob\":\"弓箭手\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":2,\"s3\":1,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":43,\"name\":\"武士\",\"star\":3,\"basejob\":\"盜賊\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":44,\"name\":\"死靈法師\",\"star\":3,\"basejob\":\"巫師\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":3,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":45,\"name\":\"修女\",\"star\":3,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":3,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":46,\"name\":\"武術家\",\"star\":3,\"basejob\":\"戰士\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":1},{\"index\":47,\"name\":\"指揮家\",\"star\":3,\"basejob\":\"槍術士\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":2,\"s8\":0},{\"index\":48,\"name\":\"機械工匠\",\"star\":3,\"basejob\":\"精靈\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":1,\"s7\":1,\"s8\":2},{\"index\":49,\"name\":\"十字軍\",\"star\":3,\"basejob\":\"劍士\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":3,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":50,\"name\":\"毒刺\",\"star\":3,\"basejob\":\"弓箭手\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":0,\"s2\":2,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":51,\"name\":\"流浪者\",\"star\":3,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":1,\"s2\":0,\"s3\":1,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":52,\"name\":\"超能力者\",\"star\":3,\"basejob\":\"巫師\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":1,\"s4\":1,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":53,\"name\":\"朝聖者\",\"star\":3,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":0,\"s2\":1,\"s3\":1,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":54,\"name\":\"符文大師\",\"star\":3,\"basejob\":\"戰士\",\"element\":\"火焰\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":0,\"s6\":2,\"s7\":0,\"s8\":1},{\"index\":55,\"name\":\"浪人劍客\",\"star\":3,\"basejob\":\"槍術士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":2,\"s8\":0},{\"index\":56,\"name\":\"寧芙\",\"star\":3,\"basejob\":\"精靈\",\"element\":\"自然\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":2,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":57,\"name\":\"女武神\",\"star\":4,\"basejob\":\"劍士\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":3,\"s2\":1,\"s3\":2,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":58,\"name\":\"風行者\",\"star\":4,\"basejob\":\"弓箭手\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":5,\"s3\":2,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":59,\"name\":\"小丑\",\"star\":4,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"輔助\",\"s1\":2,\"s2\":0,\"s3\":1,\"s4\":1,\"s5\":2,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":60,\"name\":\"大魔法師\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"火焰\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":2,\"s4\":4,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":61,\"name\":\"聖殿騎士\",\"star\":4,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":3,\"s6\":2,\"s7\":0,\"s8\":0},{\"index\":62,\"name\":\"破壞者\",\"star\":4,\"basejob\":\"戰士\",\"element\":\"冰霜\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":4,\"s7\":1,\"s8\":3},{\"index\":63,\"name\":\"守護者\",\"star\":4,\"basejob\":\"槍術士\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":1,\"s2\":2,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":5,\"s8\":0},{\"index\":64,\"name\":\"煉金術師\",\"star\":4,\"basejob\":\"精靈\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":0,\"s2\":3,\"s3\":0,\"s4\":0,\"s5\":2,\"s6\":0,\"s7\":1,\"s8\":2},{\"index\":65,\"name\":\"死亡騎士\",\"star\":4,\"basejob\":\"劍士\",\"element\":\"暗黑\",\"class\":\"防禦\",\"s1\":3,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":2,\"s7\":1,\"s8\":0},{\"index\":66,\"name\":\"魔射手\",\"star\":4,\"basejob\":\"弓箭手\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":1,\"s2\":2,\"s3\":4,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":67,\"name\":\"高階刺客\",\"star\":4,\"basejob\":\"盜賊\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":3,\"s2\":0,\"s3\":4,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":68,\"name\":\"暗黑術師\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":3,\"s4\":3,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":69,\"name\":\"占星術師\",\"star\":4,\"basejob\":\"祭司\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":2,\"s4\":2,\"s5\":2,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":70,\"name\":\"維京人\",\"star\":4,\"basejob\":\"戰士\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":3,\"s2\":0,\"s3\":1,\"s4\":1,\"s5\":0,\"s6\":2,\"s7\":0,\"s8\":1},{\"index\":71,\"name\":\"神聖三叉戟\",\"star\":4,\"basejob\":\"槍術士\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":5,\"s7\":2,\"s8\":1},{\"index\":72,\"name\":\"驅魔師\",\"star\":4,\"basejob\":\"精靈\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":2,\"s7\":1,\"s8\":3},{\"index\":73,\"name\":\"皇家守衛\",\"star\":4,\"basejob\":\"劍士\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":3,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":2,\"s8\":1},{\"index\":74,\"name\":\"掠奪者\",\"star\":4,\"basejob\":\"弓箭手\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":6,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":75,\"name\":\"屠龍者\",\"star\":4,\"basejob\":\"盜賊\",\"element\":\"火焰\",\"class\":\"防禦\",\"s1\":0,\"s2\":0,\"s3\":2,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":3,\"s8\":1},{\"index\":76,\"name\":\"噬魂者\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":1,\"s4\":3,\"s5\":0,\"s6\":1,\"s7\":1,\"s8\":0},{\"index\":77,\"name\":\"墮落修女\",\"star\":4,\"basejob\":\"祭司\",\"element\":\"暗黑\",\"class\":\"輔助\",\"s1\":1,\"s2\":1,\"s3\":0,\"s4\":0,\"s5\":3,\"s6\":0,\"s7\":2,\"s8\":0},{\"index\":78,\"name\":\"冠軍\",\"star\":4,\"basejob\":\"戰士\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":4,\"s7\":0,\"s8\":2},{\"index\":79,\"name\":\"先鋒\",\"star\":4,\"basejob\":\"槍術士\",\"element\":\"暗黑\",\"class\":\"防禦\",\"s1\":1,\"s2\":2,\"s3\":1,\"s4\":1,\"s5\":0,\"s6\":1,\"s7\":2,\"s8\":0},{\"index\":80,\"name\":\"沙羅曼達\",\"star\":4,\"basejob\":\"精靈\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":1,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":2,\"s8\":4},{\"index\":81,\"name\":\"劍詠者\",\"star\":4,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":4,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":3,\"s8\":1},{\"index\":82,\"name\":\"海軍司令\",\"star\":4,\"basejob\":\"弓箭手\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":2,\"s2\":3,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":1,\"s8\":0},{\"index\":83,\"name\":\"影舞者\",\"star\":4,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":4,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":84,\"name\":\"秘術師\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"暗黑\",\"class\":\"輔助\",\"s1\":0,\"s2\":2,\"s3\":1,\"s4\":3,\"s5\":1,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":85,\"name\":\"主教\",\"star\":4,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":5,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":86,\"name\":\"獸人戰士\",\"star\":4,\"basejob\":\"戰士\",\"element\":\"自然\",\"class\":\"防禦\",\"s1\":0,\"s2\":1,\"s3\":2,\"s4\":1,\"s5\":2,\"s6\":2,\"s7\":0,\"s8\":0},{\"index\":87,\"name\":\"審判者\",\"star\":4,\"basejob\":\"槍術士\",\"element\":\"自然\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":5,\"s8\":0},{\"index\":88,\"name\":\"溫蒂妮\",\"star\":4,\"basejob\":\"精靈\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":2,\"s8\":3},{\"index\":89,\"name\":\"決鬥者\",\"star\":4,\"basejob\":\"劍士\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":3,\"s2\":0,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":3},{\"index\":90,\"name\":\"上古射手\",\"star\":4,\"basejob\":\"弓箭手\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":0,\"s2\":5,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":91,\"name\":\"攔截者\",\"star\":4,\"basejob\":\"盜賊\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":3,\"s3\":2,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":2,\"s8\":1},{\"index\":92,\"name\":\"龍族巫女\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"火焰\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":3,\"s5\":1,\"s6\":2,\"s7\":0,\"s8\":2},{\"index\":93,\"name\":\"聖徒\",\"star\":4,\"basejob\":\"祭司\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":2,\"s3\":1,\"s4\":1,\"s5\":3,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":94,\"name\":\"盜劍客\",\"star\":4,\"basejob\":\"戰士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":3,\"s2\":0,\"s3\":1,\"s4\":2,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":1},{\"index\":95,\"name\":\"馴獸師\",\"star\":4,\"basejob\":\"槍術士\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":0,\"s2\":2,\"s3\":1,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":3,\"s8\":0},{\"index\":96,\"name\":\"西爾芙\",\"star\":4,\"basejob\":\"精靈\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":1,\"s7\":0,\"s8\":4},{\"index\":97,\"name\":\"狂亂者\",\"star\":4,\"basejob\":\"劍士\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":3,\"s2\":0,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":2,\"s8\":0},{\"index\":98,\"name\":\"海盜\",\"star\":4,\"basejob\":\"弓箭手\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":1,\"s2\":2,\"s3\":1,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":99,\"name\":\"歐西里斯\",\"star\":4,\"basejob\":\"盜賊\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":2,\"s4\":0,\"s5\":2,\"s6\":0,\"s7\":1,\"s8\":2},{\"index\":100,\"name\":\"炸彈客\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"鋼鐵\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":1,\"s4\":2,\"s5\":1,\"s6\":2,\"s7\":0,\"s8\":1},{\"index\":101,\"name\":\"風之治癒者\",\"star\":4,\"basejob\":\"祭司\",\"element\":\"自然\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":1,\"s4\":2,\"s5\":3,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":102,\"name\":\"野蠻人\",\"star\":4,\"basejob\":\"戰士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":0,\"s6\":3,\"s7\":0,\"s8\":2},{\"index\":103,\"name\":\"操作員\",\"star\":4,\"basejob\":\"槍術士\",\"element\":\"鋼鐵\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":1,\"s7\":3,\"s8\":2},{\"index\":104,\"name\":\"暗影\",\"star\":4,\"basejob\":\"精靈\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":2,\"s5\":2,\"s6\":3,\"s7\":0,\"s8\":1},{\"index\":105,\"name\":\"西貝拉\",\"star\":4,\"basejob\":\"巫師\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":2,\"s4\":5,\"s5\":0,\"s6\":1,\"s7\":0,\"s8\":0},{\"index\":106,\"name\":\"暗黑女武神\",\"star\":5,\"basejob\":\"劍士\",\"element\":\"暗黑\",\"class\":\"防禦\",\"s1\":3,\"s2\":1,\"s3\":3,\"s4\":4,\"s5\":1,\"s6\":3,\"s7\":1,\"s8\":0},{\"index\":107,\"name\":\"靈魂射手\",\"star\":5,\"basejob\":\"弓箭手\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":1,\"s2\":7,\"s3\":6,\"s4\":0,\"s5\":2,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":108,\"name\":\"賞金獵人\",\"star\":5,\"basejob\":\"盜賊\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":2,\"s2\":0,\"s3\":2,\"s4\":1,\"s5\":0,\"s6\":5,\"s7\":3,\"s8\":3},{\"index\":109,\"name\":\"首席魔法師\",\"star\":5,\"basejob\":\"巫師\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":5,\"s4\":7,\"s5\":1,\"s6\":1,\"s7\":0,\"s8\":1},{\"index\":110,\"name\":\"至尊九尾狐\",\"star\":5,\"basejob\":\"祭司\",\"element\":\"火焰\",\"class\":\"輔助\",\"s1\":2,\"s2\":1,\"s3\":2,\"s4\":1,\"s5\":5,\"s6\":4,\"s7\":0,\"s8\":0},{\"index\":111,\"name\":\"地獄使者\",\"star\":5,\"basejob\":\"戰士\",\"element\":\"冰霜\",\"class\":\"防禦\",\"s1\":2,\"s2\":1,\"s3\":2,\"s4\":2,\"s5\":2,\"s6\":5,\"s7\":0,\"s8\":2},{\"index\":112,\"name\":\"天空騎士\",\"star\":5,\"basejob\":\"槍術士\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":1,\"s2\":2,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":5,\"s7\":7,\"s8\":1},{\"index\":113,\"name\":\"伊弗利特\",\"star\":5,\"basejob\":\"精靈\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":1,\"s2\":5,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":3,\"s8\":5},{\"index\":114,\"name\":\"龍騎士\",\"star\":5,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"防禦\",\"s1\":6,\"s2\":1,\"s3\":2,\"s4\":0,\"s5\":1,\"s6\":2,\"s7\":3,\"s8\":1},{\"index\":115,\"name\":\"暗黑流浪者\",\"star\":5,\"basejob\":\"弓箭手\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":2,\"s2\":6,\"s3\":5,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":116,\"name\":\"月光銀刃\",\"star\":5,\"basejob\":\"盜賊\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":3,\"s2\":1,\"s3\":3,\"s4\":0,\"s5\":2,\"s6\":2,\"s7\":3,\"s8\":2},{\"index\":117,\"name\":\"賢者\",\"star\":5,\"basejob\":\"巫師\",\"element\":\"自然\",\"class\":\"輔助\",\"s1\":0,\"s2\":2,\"s3\":1,\"s4\":4,\"s5\":6,\"s6\":1,\"s7\":0,\"s8\":1},{\"index\":118,\"name\":\"混沌宿主\",\"star\":5,\"basejob\":\"祭司\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":3,\"s2\":1,\"s3\":1,\"s4\":3,\"s5\":3,\"s6\":1,\"s7\":3,\"s8\":0},{\"index\":119,\"name\":\"神之手\",\"star\":5,\"basejob\":\"戰士\",\"element\":\"光輝\",\"class\":\"攻擊\",\"s1\":2,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":8,\"s7\":1,\"s8\":5},{\"index\":120,\"name\":\"迪朗達爾\",\"star\":5,\"basejob\":\"槍術士\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":1,\"s2\":2,\"s3\":1,\"s4\":2,\"s5\":1,\"s6\":2,\"s7\":5,\"s8\":2},{\"index\":121,\"name\":\"依萊恩\",\"star\":5,\"basejob\":\"精靈\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":2,\"s5\":2,\"s6\":2,\"s7\":3,\"s8\":6},{\"index\":122,\"name\":\"劍術大師\",\"star\":5,\"basejob\":\"劍士\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":7,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":2,\"s7\":5,\"s8\":2},{\"index\":123,\"name\":\"獵鷹\",\"star\":5,\"basejob\":\"弓箭手\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":4,\"s2\":3,\"s3\":1,\"s4\":1,\"s5\":2,\"s6\":2,\"s7\":2,\"s8\":1},{\"index\":124,\"name\":\"狂舞僧\",\"star\":5,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":5,\"s2\":0,\"s3\":5,\"s4\":1,\"s5\":2,\"s6\":0,\"s7\":2,\"s8\":1},{\"index\":125,\"name\":\"吸血鬼\",\"star\":5,\"basejob\":\"巫師\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":0,\"s2\":1,\"s3\":3,\"s4\":7,\"s5\":1,\"s6\":3,\"s7\":0,\"s8\":1},{\"index\":126,\"name\":\"大天使\",\"star\":5,\"basejob\":\"祭司\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":2,\"s4\":3,\"s5\":7,\"s6\":0,\"s7\":0,\"s8\":2},{\"index\":127,\"name\":\"喵喵拳手\",\"star\":5,\"basejob\":\"戰士\",\"element\":\"冰霜\",\"class\":\"輔助\",\"s1\":3,\"s2\":1,\"s3\":2,\"s4\":4,\"s5\":1,\"s6\":3,\"s7\":0,\"s8\":2},{\"index\":128,\"name\":\"戰神\",\"star\":5,\"basejob\":\"槍術士\",\"element\":\"鋼鐵\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":5,\"s7\":7,\"s8\":1},{\"index\":129,\"name\":\"西爾芙德\",\"star\":5,\"basejob\":\"精靈\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":3,\"s5\":3,\"s6\":4,\"s7\":0,\"s8\":5},{\"index\":130,\"name\":\"阿瓦隆\",\"star\":5,\"basejob\":\"劍士\",\"element\":\"冰霜\",\"class\":\"攻擊\",\"s1\":5,\"s2\":3,\"s3\":1,\"s4\":0,\"s5\":0,\"s6\":4,\"s7\":3,\"s8\":0},{\"index\":131,\"name\":\"亡命之徒\",\"star\":5,\"basejob\":\"弓箭手\",\"element\":\"火焰\",\"class\":\"攻擊\",\"s1\":1,\"s2\":7,\"s3\":5,\"s4\":0,\"s5\":1,\"s6\":0,\"s7\":1,\"s8\":1},{\"index\":132,\"name\":\"護衛暗影\",\"star\":5,\"basejob\":\"盜賊\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":5,\"s2\":0,\"s3\":8,\"s4\":2,\"s5\":0,\"s6\":0,\"s7\":1,\"s8\":0},{\"index\":133,\"name\":\"操偶師\",\"star\":5,\"basejob\":\"巫師\",\"element\":\"火焰\",\"class\":\"輔助\",\"s1\":2,\"s2\":1,\"s3\":2,\"s4\":5,\"s5\":3,\"s6\":1,\"s7\":1,\"s8\":1},{\"index\":134,\"name\":\"毒后\",\"star\":5,\"basejob\":\"祭司\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":0,\"s2\":6,\"s3\":4,\"s4\":2,\"s5\":3,\"s6\":0,\"s7\":0,\"s8\":1},{\"index\":135,\"name\":\"繪夢師\",\"star\":5,\"basejob\":\"戰士\",\"element\":\"光輝\",\"class\":\"輔助\",\"s1\":0,\"s2\":1,\"s3\":2,\"s4\":0,\"s5\":2,\"s6\":4,\"s7\":2,\"s8\":5},{\"index\":136,\"name\":\"聖潔公主\",\"star\":5,\"basejob\":\"槍術士\",\"element\":\"光輝\",\"class\":\"防禦\",\"s1\":0,\"s2\":1,\"s3\":1,\"s4\":3,\"s5\":4,\"s6\":1,\"s7\":3,\"s8\":3},{\"index\":137,\"name\":\"解放者\",\"star\":5,\"basejob\":\"精靈\",\"element\":\"鋼鐵\",\"class\":\"防禦\",\"s1\":3,\"s2\":1,\"s3\":2,\"s4\":1,\"s5\":2,\"s6\":2,\"s7\":2,\"s8\":3},{\"index\":138,\"name\":\"靈魂槍術士\",\"star\":5,\"basejob\":\"槍術士\",\"element\":\"自然\",\"class\":\"攻擊\",\"s1\":1,\"s2\":4,\"s3\":1,\"s4\":3,\"s5\":1,\"s6\":1,\"s7\":5,\"s8\":0},{\"index\":139,\"name\":\"厄瑞玻斯\",\"star\":5,\"basejob\":\"精靈\",\"element\":\"暗黑\",\"class\":\"攻擊\",\"s1\":1,\"s2\":1,\"s3\":0,\"s4\":2,\"s5\":5,\"s6\":3,\"s7\":2,\"s8\":1},{\"index\":140,\"name\":\"暴風長槍手\",\"star\":5,\"basejob\":\"槍術士\",\"element\":\"鋼鐵\",\"class\":\"攻擊\",\"s1\":1,\"s2\":1,\"s3\":0,\"s4\":1,\"s5\":1,\"s6\":0,\"s7\":7,\"s8\":4},{\"index\":141,\"name\":\"6星1號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":142,\"name\":\"6星2號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":143,\"name\":\"6星3號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":144,\"name\":\"6星4號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":145,\"name\":\"6星5號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":146,\"name\":\"6星6號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0},{\"index\":147,\"name\":\"6星7號\",\"star\":6,\"basejob\":\"N/A\",\"element\":\"N/A\",\"class\":\"N/A\",\"s1\":0,\"s2\":0,\"s3\":0,\"s4\":0,\"s5\":0,\"s6\":0,\"s7\":0,\"s8\":0}]");
 
 /***/ }),
 
