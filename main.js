@@ -1242,7 +1242,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](219, "\u5360\u661F\u8853\u5E2B");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](220, "td", 67);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](221, "\u98A8\u4E4B\u6CBB\u7642\u8005");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](221, "\u98A8\u4E4B\u6CBB\u7652\u8005");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](222, "td", 68);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](223, "\u8056\u6BBF\u9A0E\u58EB");
