@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\pacsuser\Desktop\arcanaweb\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! C:\Users\User\Desktop\arcanaweb\src\main.ts */"zUnb");
 
 
 /***/ }),
@@ -387,47 +387,47 @@ var _assets_charinfo_json__WEBPACK_IMPORTED_MODULE_1___namespace = /*#__PURE__*/
 
 
 function AppComponent_ng_template_3_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](0, "img", 142);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](0, "img", 141);
 } }
 function AppComponent_ng_template_4_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](1, "\u963F\u723E\u5361\u7D0D\uFF1A\u547D\u904B\u4E4B\u8F2A - \u968A\u4F0D\u8A08\u6578");
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](1, "\u963F\u723E\u5361\u7D0D\uFF1A\u547D\u904B\u4E4B\u8F2A - \u968A\u4F0D\u5C0F\u5DE5\u5177");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
 } }
 function AppComponent_ng_template_10_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "tr");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "th", 143);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "th", 142);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2, "\u59D3\u540D ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](3, "p-columnFilter", 144);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](3, "p-columnFilter", 143);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](4, "th", 145);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](4, "th", 144);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](5, "\u661F\u7D1A ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](6, "p-columnFilter", 146);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](6, "p-columnFilter", 145);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](7, "th", 145);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](7, "th", 144);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](8, "\u8077\u696D ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](9, "p-columnFilter", 147);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](9, "p-columnFilter", 146);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](10, "th", 145);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](10, "th", 144);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](11, "\u5C6C\u6027 ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](12, "p-columnFilter", 148);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](12, "p-columnFilter", 147);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](13, "th", 145);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](13, "th", 144);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](14, "\u5B9A\u4F4D ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](15, "p-columnFilter", 149);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](15, "p-columnFilter", 148);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](16, "th", 145);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](16, "th", 144);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](17, "\u6E1B\u76CA1 ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](18, "p-columnFilter", 150);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](18, "p-columnFilter", 149);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](19, "th", 145);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](19, "th", 144);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](20, "\u6E1B\u76CA2 ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](21, "p-columnFilter", 151);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](21, "p-columnFilter", 150);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](22, "th", 152);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](22, "th", 151);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](23, "\u8CC7\u8A0A");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](24, "th", 145);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](24, "th", 144);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](25, "\u52A0\u5230\u968A\u4F0D");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -451,34 +451,34 @@ function AppComponent_ng_template_11_Template(rf, ctx) { if (rf & 1) {
     const _r22 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵgetCurrentView"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "tr");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "td");
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](2, "img", 153);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](2, "img", 152);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](4, "td", 154);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](4, "td", 153);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](5, "p-rating", 16);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](6, "td", 154);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](6, "td", 153);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](7);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](8, "td", 154);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](8, "td", 153);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](9);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](10, "td", 154);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](10, "td", 153);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](11);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](12, "td", 154);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](12, "td", 153);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](13);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](14, "td", 154);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](14, "td", 153);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](15);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](16, "td", 154);
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](17, "button", 155);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](16, "td", 153);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](17, "button", 154);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("click", function AppComponent_ng_template_11_Template_button_click_17_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵrestoreView"](_r22); const info_r20 = ctx.$implicit; const ctx_r21 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"](); return ctx_r21.showDialog(info_r20); });
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](18, "td", 154);
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](19, "button", 156);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](18, "td", 153);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](19, "button", 155);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("click", function AppComponent_ng_template_11_Template_button_click_19_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵrestoreView"](_r22); const info_r20 = ctx.$implicit; const ctx_r23 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"](); return ctx_r23.putinslot(info_r20); });
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -514,13 +514,13 @@ function AppComponent_ng_template_60_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r24.location1.name);
 } }
 function AppComponent_ng_template_60_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_60_div_0_Template, 3, 1, "div", 157);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_60_div_0_Template, 3, 1, "div", 156);
 } if (rf & 2) {
     const ctx_r4 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r4.location1);
 } }
 function AppComponent_ng_template_61_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 158);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 157);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -542,13 +542,13 @@ function AppComponent_ng_template_64_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r26.location2.name);
 } }
 function AppComponent_ng_template_64_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_64_div_0_Template, 3, 1, "div", 157);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_64_div_0_Template, 3, 1, "div", 156);
 } if (rf & 2) {
     const ctx_r6 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r6.location2);
 } }
 function AppComponent_ng_template_65_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 158);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 157);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -570,13 +570,13 @@ function AppComponent_ng_template_68_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r28.location3.name);
 } }
 function AppComponent_ng_template_68_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_68_div_0_Template, 3, 1, "div", 157);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_68_div_0_Template, 3, 1, "div", 156);
 } if (rf & 2) {
     const ctx_r8 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r8.location3);
 } }
 function AppComponent_ng_template_69_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 158);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 157);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -598,13 +598,13 @@ function AppComponent_ng_template_72_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r30.location4.name);
 } }
 function AppComponent_ng_template_72_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_72_div_0_Template, 3, 1, "div", 157);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_72_div_0_Template, 3, 1, "div", 156);
 } if (rf & 2) {
     const ctx_r10 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r10.location4);
 } }
 function AppComponent_ng_template_73_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 158);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 157);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -626,13 +626,13 @@ function AppComponent_ng_template_76_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r32.location5.name);
 } }
 function AppComponent_ng_template_76_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_76_div_0_Template, 3, 1, "div", 157);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_76_div_0_Template, 3, 1, "div", 156);
 } if (rf & 2) {
     const ctx_r12 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r12.location5);
 } }
 function AppComponent_ng_template_77_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 158);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 157);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -654,13 +654,13 @@ function AppComponent_ng_template_80_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r34.location6.name);
 } }
 function AppComponent_ng_template_80_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_80_div_0_Template, 3, 1, "div", 157);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_80_div_0_Template, 3, 1, "div", 156);
 } if (rf & 2) {
     const ctx_r14 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r14.location6);
 } }
 function AppComponent_ng_template_81_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 158);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 157);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -682,13 +682,13 @@ function AppComponent_ng_template_84_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r36.location7.name);
 } }
 function AppComponent_ng_template_84_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_84_div_0_Template, 3, 1, "div", 157);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_84_div_0_Template, 3, 1, "div", 156);
 } if (rf & 2) {
     const ctx_r16 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r16.location7);
 } }
 function AppComponent_ng_template_85_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 158);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 157);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -710,13 +710,13 @@ function AppComponent_ng_template_88_div_0_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtextInterpolate"](ctx_r38.location8.name);
 } }
 function AppComponent_ng_template_88_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_88_div_0_Template, 3, 1, "div", 157);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtemplate"](0, AppComponent_ng_template_88_div_0_Template, 3, 1, "div", 156);
 } if (rf & 2) {
     const ctx_r18 = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx_r18.location8);
 } }
 function AppComponent_ng_template_89_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 158);
+    _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 157);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -786,16 +786,48 @@ class AppComponent {
         this.location8 = this.info[0];
         this.items = [
             {
-                label: '一點說明',
+                label: '關於圖鑑',
                 icon: 'pi pi-bell',
                 items: [
                     { label: '圖鑑的篩選器可以多個同時使用', icon: 'pi pi-bell' },
-                    { label: '本來想用更好的篩選', icon: 'pi pi-bell' },
-                    { label: '但一直失敗..可惡', icon: 'pi pi-bell' },
-                    { label: '英雄選擇如果要清空', icon: 'pi pi-bell' },
-                    { label: '請選"請選擇英雄"', icon: 'pi pi-bell' },
-                    { label: '四五星英雄選單是可以移動的', icon: 'pi pi-bell' },
-                    { label: '所以可以同時把4跟5星清單打開來看', icon: 'pi pi-bell' }
+                    { label: '減益1跟減益2是按照該腳色', icon: 'pi pi-bell' },
+                    { label: '的技能順序做排序', icon: 'pi pi-bell' },
+                    { label: '所以可能前面有英雄遲緩，後面也有', icon: 'pi pi-bell' },
+                    { label: '後面有英雄也有遲緩', icon: 'pi pi-bell' },
+                    { label: '空白就是沒減益效果', icon: 'pi pi-bell' },
+                    { label: '後面的加號可以加進隊伍', icon: 'pi pi-bell' }
+                ]
+            },
+            {
+                label: '關於英雄選擇',
+                icon: 'pi pi-bell',
+                items: [
+                    { label: '下方的四五星清單打開是可以移動的', icon: 'pi pi-bell' },
+                    { label: '所以可以同時把4跟5星清單打開來看', icon: 'pi pi-bell' },
+                    { label: '直接點清單的名稱可以加到隊伍上', icon: 'pi pi-bell' },
+                    { label: '四星以下就要從圖鑑+了(ˊˇˋ)', icon: 'pi pi-bell' },
+                    { label: '直接點清單的名稱可以加到隊伍上', icon: 'pi pi-bell' },
+                    { label: '目前只有用到八個英雄欄位，更多的話以後再說', icon: 'pi pi-bell' },
+                    { label: '每個slot都有專用清除按鈕', icon: 'pi pi-bell' },
+                    { label: '最底下有全清紅色按鈕', icon: 'pi pi-bell' }
+                ]
+            },
+            {
+                label: '關於八棋總計',
+                icon: 'pi pi-bell',
+                items: [
+                    { label: '第一部分是指', icon: 'pi pi-bell' },
+                    { label: '指隊伍內所有腳色合成', icon: 'pi pi-bell' },
+                    { label: '所需的初始八棋總量', icon: 'pi pi-bell' },
+                    { label: '第二部分是算隊伍職業數量', icon: 'pi pi-bell' },
+                    { label: '第三部分是算隊伍屬性數量', icon: 'pi pi-bell' },
+                ]
+            },
+            {
+                label: '關於取得計數',
+                icon: 'pi pi-bell',
+                items: [
+                    { label: '對 就是計數，沒其他功能', icon: 'pi pi-bell' }
                 ]
             }
         ];
@@ -988,7 +1020,7 @@ class AppComponent {
     }
     Tputinslot(char) {
         for (let i = 0; i < this.info.length; i++) {
-            if (this.info[i].name == char) {
+            if (this.info[i].name === char) {
                 this.putinslot(this.info[i]);
             }
         }
@@ -998,7 +1030,7 @@ class AppComponent {
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdirectiveInject"](primeng_api__WEBPACK_IMPORTED_MODULE_0__["MessageService"]), _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdirectiveInject"](primeng_api__WEBPACK_IMPORTED_MODULE_0__["PrimeNGConfig"]), _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdirectiveInject"](primeng_api__WEBPACK_IMPORTED_MODULE_0__["FilterService"])); };
-AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], features: [_angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵProvidersFeature"]([primeng_api__WEBPACK_IMPORTED_MODULE_0__["MessageService"]])], decls: 699, vars: 119, consts: [["align", "center", 1, "p-grid"], [1, "p-xl-12", "p-lg-12", "p-md-12", "p-sm-12", "p-col-12"], [3, "model"], ["pTemplate", "start"], ["pTemplate", "end"], [1, "p-grid", "p-col", "nested-grid"], [1, "p-xl-6", "p-lg-6", "p-md-12", "p-sm-12", "p-col-12"], [1, "box", "box-stretched"], ["columnResizeMode", "expand", "styleClass", "p-datatable-gridlines p-datatable-sm", 3, "value", "paginator", "rows", "showCurrentPageReport"], ["pTemplate", "header"], ["pTemplate", "body"], [3, "header", "visible", "visibleChange"], [1, "p-grid", "nested-grid"], [1, "p-col-12"], [1, "p-grid"], [1, "infobox", 2, "text-align", "left"], [3, "ngModel", "readonly", "stars", "cancel"], [1, "p-xl-12", "p-lg-12", "p-md-12", "p-sm-12", "p-col-6"], ["image", "./assets/statusico/health.png", 3, "label"], ["image", "./assets/statusico/attack.png", 3, "label"], ["image", "./assets/statusico/mattack.png", 3, "label"], ["image", "./assets/statusico/attackrange.png", 3, "label"], ["image", "./assets/statusico/attackspeed.png", 3, "label"], ["image", "./assets/statusico/shield.png", 3, "label"], ["image", "./assets/statusico/mshield.png", 3, "label"], ["image", "./assets/statusico/criticaldamageadd.png", 3, "label"], ["image", "./assets/statusico/criticaldamagepercent.png", 3, "label"], ["image", "./assets/statusico/movespeed.png", 3, "label"], [1, "p-xl-6", "p-lg-6", "p-md-6", "p-sm-6", "p-col-6"], [1, "box", 2, "text-align", "left"], [1, "p-grid", "p-fluid"], [1, "p-xl-4", "p-lg-6", "p-md-12", "p-sm-12", "p-col-12"], [1, "box", "p-col"], ["optionLabel", "name", "filterBy", "name", "placeholder", "\u9078\u64C7\u4E00\u4F4D\u82F1\u96C4", 3, "options", "ngModel", "filter", "showClear", "ngModelChange", "onChange"], ["pTemplate", "selectedItem"], ["pTemplate", "item"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot1", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot2", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot3", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot4", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot5", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot6", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot7", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot8", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u56DB\u661F\u6E05\u55AE", 1, "p-button-outlined", "p-button-success", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u4E94\u661F\u6E05\u55AE", 1, "p-button-outlined", "p-button-success", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664\u968A\u4F0D", 1, "p-button-outlined", "p-button-danger", 3, "click"], ["header", "\u56DB\u661F\u82F1\u96C4\u6E05\u55AE *\u7D05\u653B\u64CA \u85CD\u9632\u79A6 \u7DA0\u8F14\u52A9", "position", "left", 3, "visible", "visibleChange"], ["id", "fourstar", "cellpadding", "0", "border", "1", 2, "border", "1px white solid", "background-color", "rgb(39, 39, 39)"], ["rowspan", "2"], ["bgcolor", "red", "pTooltip", "\u7B26\u6587\u9A0E\u58EB + \u9AD8\u5730\u4EBA", 3, "click"], ["bgcolor", "red", "pTooltip", "\u9AD8\u968E\u7CBE\u9748 + \u5341\u5B57\u8ECD", 3, "click"], ["bgcolor", "red", "pTooltip", "\u7B26\u6587\u9A0E\u58EB + \u5B88\u671B\u8005", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u7B26\u6587\u9A0E\u58EB + \u72C2\u6230\u58EB", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5341\u5B57\u8ECD + \u6D6A\u4EBA\u528D\u5BA2", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u9AD8\u5730\u4EBA + \u9632\u885B\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u7AE5\u8ECD + \u6BD2\u523A", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5FA9\u4EC7\u8005 + \u7375\u4EBA", 3, "click"], ["bgcolor", "red", "pTooltip", "\u7AE5\u8ECD + \u7375\u4EBA", 3, "click"], ["bgcolor", "red", "pTooltip", "\u7AE5\u8ECD + \u904A\u4FE0", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u9632\u885B\u8005 + \u904A\u4FE0", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6BD2\u523A + \u6D41\u6D6A\u8005", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u6BBA\u624B + \u6D6A\u4EBA\u528D\u5BA2", 3, "click"], ["bgcolor", "red", "pTooltip", "\u904A\u4FE0 + \u6BBA\u624B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u6A02\u5E2B + \u6B66\u58EB", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5FA9\u4EC7\u8005 + \u6B66\u58EB", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5FA9\u4EC7\u8005 + \u6D41\u6D6A\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6BBA\u624B + \u5BE7\u8299", 3, "click"], ["bgcolor", "green", "pTooltip", "\u7948\u6C42\u8005 + \u8853\u58EB", 3, "click"], ["bgcolor", "red", "pTooltip", "\u8853\u58EB + \u8D85\u80FD\u529B\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6B66\u58EB + \u6B7B\u9748\u6CD5\u5E2B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u7375\u4EBA + \u6B7B\u9748\u6CD5\u5E2B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u4F7F\u5F79\u9B54 + \u8D85\u80FD\u529B\u8005", 3, "click"], ["bgcolor", "green", "pTooltip", "\u7948\u6C42\u8005 + \u7B26\u6587\u5927\u5E2B", 3, "click"], ["bgcolor", "red", "pTooltip", "\u8853\u58EB + \u6B7B\u9748\u6CD5\u5E2B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u7948\u6C42\u8005 + \u5B88\u671B\u8005", 3, "click"], ["bgcolor", "green", "pTooltip", "\u6A02\u5E2B + \u671D\u8056\u8005", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u9632\u885B\u8005 + \u4FEE\u5973", 3, "click"], ["bgcolor", "green", "pTooltip", "\u72C2\u66B4\u69CD\u58EB + \u4FEE\u5973", 3, "click"], ["bgcolor", "green", "pTooltip", "\u671D\u8056\u8005 + \u5BE7\u8299", 3, "click"], ["bgcolor", "green", "pTooltip", "\u6A02\u5E2B + \u4FEE\u5973", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6B66\u8853\u5BB6 + \u6D41\u6D6A\u8005", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u89D2\u9B25\u58EB + \u6A5F\u68B0\u5DE5\u5320", 3, "click"], ["bgcolor", "red", "pTooltip", "\u89D2\u9B25\u58EB + \u6B66\u8853\u5BB6", 3, "click"], ["pTooltip", "\u5341\u5B57\u8ECD + \u7B26\u6587\u5927\u5E2B", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6B66\u8853\u5BB6 + \u7B26\u6587\u5927\u5E2B", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u5B88\u671B\u8005 + \u72C2\u6230\u58EB", 3, "click"], ["bgcolor", "green", "pTooltip", "\u9A0E\u58EB + \u72C2\u66B4\u69CD\u58EB", 3, "click"], ["bgcolor", "green", "pTooltip", "\u9A0E\u58EB + \u6307\u63EE\u5BB6", 3, "click"], ["bgcolor", "red", "pTooltip", "\u89D2\u9B25\u58EB + \u6D6A\u4EBA\u528D\u5BA2", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u72C2\u66B4\u69CD\u58EB + \u8D85\u80FD\u529B\u8005", 3, "click"], ["bgcolor", "green", "pTooltip", "\u6307\u63EE\u5BB6 + \u6A5F\u68B0\u5DE5\u5320", 3, "click"], ["bgcolor", "red", "pTooltip", "\u9A0E\u58EB + \u671D\u8056\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u9AD8\u5730\u4EBA + \u9AD8\u968E\u7CBE\u9748", 3, "click"], ["bgcolor", "green", "pTooltip", "\u9AD8\u968E\u7CBE\u9748 + \u6307\u63EE\u5BB6", 3, "click"], ["bgcolor", "red", "pTooltip", "\u4F7F\u5F79\u9B54 + \u9AD8\u968E\u7CBE\u9748", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6BD2\u523A + \u5BE7\u8299", 3, "click"], ["bgcolor", "red", "pTooltip", "\u72C2\u6230\u58EB + \u4F7F\u5F79\u9B54", 3, "click"], ["bgcolor", "red", "pTooltip", "\u4F7F\u5F79\u9B54 + \u6A5F\u68B0\u5DE5\u5320", 3, "click"], ["header", "\u4E94\u661F\u82F1\u96C4\u6E05\u55AE *\u7D05\u653B\u64CA \u85CD\u9632\u79A6 \u7DA0\u8F14\u52A9", "position", "right", 3, "visible", "visibleChange"], ["cellpadding", "0", "border", "1", 2, "border", "3px white solid", "background-color", "rgb(39, 39, 39)"], ["bgcolor", "blue", "pTooltip", "\u5973\u6B66\u795E + \u7687\u5BB6\u5B88\u885B", 3, "click"], ["bgcolor", "red", "pTooltip", "\u72C2\u4E82\u8005 + \u6D77\u8ECD\u53F8\u4EE4", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u6B7B\u4EA1\u9A0E\u58EB + \u6697\u9ED1\u8853\u5E2B", 3, "click"], ["bgcolor", "red", "pTooltip", "\u7687\u5BB6\u5B88\u885B + \u528D\u8A60\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u9B54\u5C04\u624B + \u4E0A\u53E4\u5C04\u624B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u5C0F\u4E11 + \u6D77\u8ECD\u53F8\u4EE4", 3, "click"], ["bgcolor", "red", "pTooltip", "\u98A8\u884C\u8005 + \u9B54\u5C04\u624B", 3, "click"], ["bgcolor", "red", "pTooltip", "\u63A0\u596A\u8005 + \u5F71\u821E\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u72C2\u4E82\u8005 + \u6B50\u897F\u91CC\u65AF", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5C0F\u4E11 + \u9AD8\u968E\u523A\u5BA2", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u5C60\u9F8D\u8005 + \u91CE\u883B\u4EBA", 3, "click"], ["bgcolor", "red", "pTooltip", "\u9AD8\u968E\u523A\u5BA2 + \u5F71\u821E\u8005", 3, "click"], ["bgcolor", "green", "pTooltip", "\u566C\u9B42\u8005 + \u98A8\u4E4B\u6CBB\u7652\u8005", 3, "click"], ["bgcolor", "green", "pTooltip", "\u79D8\u8853\u5E2B + \u4E3B\u6559", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5927\u9B54\u6CD5\u5E2B + \u6697\u9ED1\u8853\u5E2B", 3, "click"], ["bgcolor", "red", "pTooltip", "\u70B8\u5F48\u5BA2 + \u897F\u8C9D\u62C9", 3, "click"], ["bgcolor", "green", "pTooltip", "\u8056\u6BBF\u9A0E\u58EB + \u7378\u4EBA\u6230\u58EB", 3, "click"], ["bgcolor", "red", "pTooltip", "\u98A8\u884C\u8005 + \u5360\u661F\u8853\u5E2B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u5360\u661F\u8853\u5E2B + \u4E3B\u6559", 3, "click"], ["bgcolor", "red", "pTooltip", "\u566C\u9B42\u8005 + \u58AE\u843D\u4FEE\u5973", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u7378\u4EBA\u6230\u58EB + \u91CE\u883B\u4EBA", 3, "click"], ["bgcolor", "red", "pTooltip", "\u7834\u58DE\u8005 + \u51A0\u8ECD", 3, "click"], ["bgcolor", "green", "pTooltip", "\u76DC\u528D\u5BA2 + \u70B8\u5F48\u5BA2", 3, "click"], ["bgcolor", "green", "pTooltip", "\u7834\u58DE\u8005 + \u6B50\u897F\u91CC\u65AF", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5B88\u8B77\u8005 + \u79D8\u8853\u5E2B", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u5B88\u8B77\u8005 + \u795E\u8056\u4E09\u53C9\u621F", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5148\u92D2 + \u64CD\u4F5C\u54E1", 3, "click"], ["bgcolor", "green", "pTooltip", "\u795E\u8056\u4E09\u53C9\u621F + \u5BE9\u5224\u8005", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u98A8\u4E4B\u6CBB\u7652\u8005 + \u64CD\u4F5C\u54E1", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6C99\u7F85\u66FC\u9054 + \u5BE9\u5224\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6C99\u7F85\u66FC\u9054 + \u4E0A\u53E4\u5C04\u624B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u9A45\u9B54\u5E2B + \u6EAB\u8482\u59AE", 3, "click"], ["bgcolor", "red", "pTooltip", "\u897F\u723E\u8299 + \u6697\u5F71", 3, "click"], ["bgcolor", "red", "pTooltip", "\u58AE\u843D\u4FEE\u5973 + \u6697\u5F71", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u5973\u6B66\u795E + \u9A45\u9B54\u5E2B", 3, "click"], [1, "p-inputgroup"], [1, "p-inputgroup-addon"], ["type", "text", "pInputText", "", "placeholder", "\u9700\u6C42\u91CF", 2, "width", "20%", 3, "ngModel", "ngModelChange"], ["mode", "decimal", "inputId", "minmax-buttons", 3, "ngModel", "showButtons", "min", "max", "ngModelChange"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u96F6", 1, "p-button-outlined", "p-button-danger", 3, "click"], [1, "p-xl-12", "p-lg-6", "p-md-12", "p-sm-12", "p-col-12"], ["src", "assets/gameicon.png", "height", "40", 1, "p-mr-2"], [2, "text-align", "center", "width", "12%"], ["type", "text", "field", "name", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], [2, "text-align", "center", "width", "8%"], ["type", "text", "field", "star", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "basejob", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "element", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "class", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "debuff1", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "debuff2", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], [2, "text-align", "center", "width", "6%"], ["width", "35", 3, "src"], [2, "text-align", "center"], ["pButton", "", "pRipple", "", "type", "button", "icon", "pi pi-user", 1, "p-button-secondary", "p-button-outlined", 2, "width", "50%", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "icon", "pi pi-plus", 1, "p-button-secondary", "p-button-outlined", 2, "width", "50%", 3, "click"], [4, "ngIf"], [1, "country-item"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
+AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], features: [_angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵProvidersFeature"]([primeng_api__WEBPACK_IMPORTED_MODULE_0__["MessageService"]])], decls: 696, vars: 119, consts: [["align", "center", 1, "p-grid"], [1, "p-xl-12", "p-lg-12", "p-md-12", "p-sm-12", "p-col-12"], [3, "model"], ["pTemplate", "start"], ["pTemplate", "end"], [1, "p-grid", "p-col", "nested-grid"], [1, "p-xl-6", "p-lg-6", "p-md-12", "p-sm-12", "p-col-12"], [1, "box", "box-stretched"], ["columnResizeMode", "expand", "styleClass", "p-datatable-gridlines p-datatable-sm", 3, "value", "paginator", "rows", "showCurrentPageReport"], ["pTemplate", "header"], ["pTemplate", "body"], [3, "header", "visible", "visibleChange"], [1, "p-grid", "nested-grid"], [1, "p-col-12"], [1, "p-grid"], [1, "infobox", 2, "text-align", "left"], [3, "ngModel", "readonly", "stars", "cancel"], [1, "p-xl-12", "p-lg-12", "p-md-12", "p-sm-12", "p-col-6"], ["image", "./assets/statusico/health.png", 3, "label"], ["image", "./assets/statusico/attack.png", 3, "label"], ["image", "./assets/statusico/mattack.png", 3, "label"], ["image", "./assets/statusico/attackrange.png", 3, "label"], ["image", "./assets/statusico/attackspeed.png", 3, "label"], ["image", "./assets/statusico/shield.png", 3, "label"], ["image", "./assets/statusico/mshield.png", 3, "label"], ["image", "./assets/statusico/criticaldamageadd.png", 3, "label"], ["image", "./assets/statusico/criticaldamagepercent.png", 3, "label"], ["image", "./assets/statusico/movespeed.png", 3, "label"], [1, "p-xl-6", "p-lg-6", "p-md-6", "p-sm-6", "p-col-6"], [1, "box", 2, "text-align", "left"], [1, "p-grid", "p-fluid"], [1, "p-xl-4", "p-lg-6", "p-md-12", "p-sm-12", "p-col-12"], [1, "box", "p-col"], ["optionLabel", "name", "filterBy", "name", "placeholder", "\u9078\u64C7\u4E00\u4F4D\u82F1\u96C4", 3, "options", "ngModel", "filter", "showClear", "ngModelChange", "onChange"], ["pTemplate", "selectedItem"], ["pTemplate", "item"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot1", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot2", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot3", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot4", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot5", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot6", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot7", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664slot8", "icon", "pi pi-arrow-up", 1, "p-button-outlined", "p-button-info", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u56DB\u661F\u6E05\u55AE", 1, "p-button-outlined", "p-button-success", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u4E94\u661F\u6E05\u55AE", 1, "p-button-outlined", "p-button-success", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u9664\u968A\u4F0D", 1, "p-button-outlined", "p-button-danger", 3, "click"], ["header", "\u56DB\u661F\u82F1\u96C4\u6E05\u55AE *\u7D05\u653B\u64CA \u85CD\u9632\u79A6 \u7DA0\u8F14\u52A9", "position", "left", 3, "visible", "visibleChange"], ["id", "fourstar", "cellpadding", "0", "border", "1", 2, "border", "1px white solid", "background-color", "rgb(39, 39, 39)"], ["rowspan", "2"], ["bgcolor", "red", "pTooltip", "\u7B26\u6587\u9A0E\u58EB + \u9AD8\u5730\u4EBA", 3, "click"], ["bgcolor", "red", "pTooltip", "\u9AD8\u968E\u7CBE\u9748 + \u5341\u5B57\u8ECD", 3, "click"], ["bgcolor", "red", "pTooltip", "\u7B26\u6587\u9A0E\u58EB + \u5B88\u671B\u8005", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u7B26\u6587\u9A0E\u58EB + \u72C2\u6230\u58EB", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5341\u5B57\u8ECD + \u6D6A\u4EBA\u528D\u5BA2", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u9AD8\u5730\u4EBA + \u9632\u885B\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u7AE5\u8ECD + \u6BD2\u523A", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5FA9\u4EC7\u8005 + \u7375\u4EBA", 3, "click"], ["bgcolor", "red", "pTooltip", "\u7AE5\u8ECD + \u7375\u4EBA", 3, "click"], ["bgcolor", "red", "pTooltip", "\u7AE5\u8ECD + \u904A\u4FE0", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u9632\u885B\u8005 + \u904A\u4FE0", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6BD2\u523A + \u6D41\u6D6A\u8005", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u6BBA\u624B + \u6D6A\u4EBA\u528D\u5BA2", 3, "click"], ["bgcolor", "red", "pTooltip", "\u904A\u4FE0 + \u6BBA\u624B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u6A02\u5E2B + \u6B66\u58EB", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5FA9\u4EC7\u8005 + \u6B66\u58EB", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5FA9\u4EC7\u8005 + \u6D41\u6D6A\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6BBA\u624B + \u5BE7\u8299", 3, "click"], ["bgcolor", "green", "pTooltip", "\u7948\u6C42\u8005 + \u8853\u58EB", 3, "click"], ["bgcolor", "red", "pTooltip", "\u8853\u58EB + \u8D85\u80FD\u529B\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6B66\u58EB + \u6B7B\u9748\u6CD5\u5E2B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u7375\u4EBA + \u6B7B\u9748\u6CD5\u5E2B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u4F7F\u5F79\u9B54 + \u8D85\u80FD\u529B\u8005", 3, "click"], ["bgcolor", "green", "pTooltip", "\u7948\u6C42\u8005 + \u7B26\u6587\u5927\u5E2B", 3, "click"], ["bgcolor", "red", "pTooltip", "\u8853\u58EB + \u6B7B\u9748\u6CD5\u5E2B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u7948\u6C42\u8005 + \u5B88\u671B\u8005", 3, "click"], ["bgcolor", "green", "pTooltip", "\u6A02\u5E2B + \u671D\u8056\u8005", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u9632\u885B\u8005 + \u4FEE\u5973", 3, "click"], ["bgcolor", "green", "pTooltip", "\u72C2\u66B4\u69CD\u58EB + \u4FEE\u5973", 3, "click"], ["bgcolor", "green", "pTooltip", "\u671D\u8056\u8005 + \u5BE7\u8299", 3, "click"], ["bgcolor", "green", "pTooltip", "\u6A02\u5E2B + \u4FEE\u5973", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6B66\u8853\u5BB6 + \u6D41\u6D6A\u8005", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u89D2\u9B25\u58EB + \u6A5F\u68B0\u5DE5\u5320", 3, "click"], ["bgcolor", "red", "pTooltip", "\u89D2\u9B25\u58EB + \u6B66\u8853\u5BB6", 3, "click"], ["pTooltip", "\u5341\u5B57\u8ECD + \u7B26\u6587\u5927\u5E2B", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6B66\u8853\u5BB6 + \u7B26\u6587\u5927\u5E2B", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u5B88\u671B\u8005 + \u72C2\u6230\u58EB", 3, "click"], ["bgcolor", "green", "pTooltip", "\u9A0E\u58EB + \u72C2\u66B4\u69CD\u58EB", 3, "click"], ["bgcolor", "green", "pTooltip", "\u9A0E\u58EB + \u6307\u63EE\u5BB6", 3, "click"], ["bgcolor", "red", "pTooltip", "\u89D2\u9B25\u58EB + \u6D6A\u4EBA\u528D\u5BA2", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u72C2\u66B4\u69CD\u58EB + \u8D85\u80FD\u529B\u8005", 3, "click"], ["bgcolor", "green", "pTooltip", "\u6307\u63EE\u5BB6 + \u6A5F\u68B0\u5DE5\u5320", 3, "click"], ["bgcolor", "red", "pTooltip", "\u9A0E\u58EB + \u671D\u8056\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u9AD8\u5730\u4EBA + \u9AD8\u968E\u7CBE\u9748", 3, "click"], ["bgcolor", "green", "pTooltip", "\u9AD8\u968E\u7CBE\u9748 + \u6307\u63EE\u5BB6", 3, "click"], ["bgcolor", "red", "pTooltip", "\u4F7F\u5F79\u9B54 + \u9AD8\u968E\u7CBE\u9748", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6BD2\u523A + \u5BE7\u8299", 3, "click"], ["bgcolor", "red", "pTooltip", "\u72C2\u6230\u58EB + \u4F7F\u5F79\u9B54", 3, "click"], ["bgcolor", "red", "pTooltip", "\u4F7F\u5F79\u9B54 + \u6A5F\u68B0\u5DE5\u5320", 3, "click"], ["header", "\u4E94\u661F\u82F1\u96C4\u6E05\u55AE *\u7D05\u653B\u64CA \u85CD\u9632\u79A6 \u7DA0\u8F14\u52A9", "position", "right", 3, "visible", "visibleChange"], ["cellpadding", "0", "border", "1", 2, "border", "3px white solid", "background-color", "rgb(39, 39, 39)"], ["bgcolor", "blue", "pTooltip", "\u5973\u6B66\u795E + \u7687\u5BB6\u5B88\u885B", 3, "click"], ["bgcolor", "red", "pTooltip", "\u72C2\u4E82\u8005 + \u6D77\u8ECD\u53F8\u4EE4", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u6B7B\u4EA1\u9A0E\u58EB + \u6697\u9ED1\u8853\u5E2B", 3, "click"], ["bgcolor", "red", "pTooltip", "\u7687\u5BB6\u5B88\u885B + \u528D\u8A60\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u9B54\u5C04\u624B + \u4E0A\u53E4\u5C04\u624B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u5C0F\u4E11 + \u6D77\u8ECD\u53F8\u4EE4", 3, "click"], ["bgcolor", "red", "pTooltip", "\u98A8\u884C\u8005 + \u9B54\u5C04\u624B", 3, "click"], ["bgcolor", "red", "pTooltip", "\u63A0\u596A\u8005 + \u5F71\u821E\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u72C2\u4E82\u8005 + \u6B50\u897F\u91CC\u65AF", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5C0F\u4E11 + \u9AD8\u968E\u523A\u5BA2", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u5C60\u9F8D\u8005 + \u91CE\u883B\u4EBA", 3, "click"], ["bgcolor", "red", "pTooltip", "\u9AD8\u968E\u523A\u5BA2 + \u5F71\u821E\u8005", 3, "click"], ["bgcolor", "green", "pTooltip", "\u566C\u9B42\u8005 + \u98A8\u4E4B\u6CBB\u7652\u8005", 3, "click"], ["bgcolor", "green", "pTooltip", "\u79D8\u8853\u5E2B + \u4E3B\u6559", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5927\u9B54\u6CD5\u5E2B + \u6697\u9ED1\u8853\u5E2B", 3, "click"], ["bgcolor", "red", "pTooltip", "\u70B8\u5F48\u5BA2 + \u897F\u8C9D\u62C9", 3, "click"], ["bgcolor", "green", "pTooltip", "\u8056\u6BBF\u9A0E\u58EB + \u7378\u4EBA\u6230\u58EB", 3, "click"], ["bgcolor", "red", "pTooltip", "\u98A8\u884C\u8005 + \u5360\u661F\u8853\u5E2B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u5360\u661F\u8853\u5E2B + \u4E3B\u6559", 3, "click"], ["bgcolor", "red", "pTooltip", "\u566C\u9B42\u8005 + \u58AE\u843D\u4FEE\u5973", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u7378\u4EBA\u6230\u58EB + \u91CE\u883B\u4EBA", 3, "click"], ["bgcolor", "red", "pTooltip", "\u7834\u58DE\u8005 + \u51A0\u8ECD", 3, "click"], ["bgcolor", "green", "pTooltip", "\u76DC\u528D\u5BA2 + \u70B8\u5F48\u5BA2", 3, "click"], ["bgcolor", "green", "pTooltip", "\u7834\u58DE\u8005 + \u6B50\u897F\u91CC\u65AF", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5B88\u8B77\u8005 + \u79D8\u8853\u5E2B", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u5B88\u8B77\u8005 + \u795E\u8056\u4E09\u53C9\u621F", 3, "click"], ["bgcolor", "red", "pTooltip", "\u5148\u92D2 + \u64CD\u4F5C\u54E1", 3, "click"], ["bgcolor", "green", "pTooltip", "\u795E\u8056\u4E09\u53C9\u621F + \u5BE9\u5224\u8005", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u98A8\u4E4B\u6CBB\u7652\u8005 + \u64CD\u4F5C\u54E1", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6C99\u7F85\u66FC\u9054 + \u5BE9\u5224\u8005", 3, "click"], ["bgcolor", "red", "pTooltip", "\u6C99\u7F85\u66FC\u9054 + \u4E0A\u53E4\u5C04\u624B", 3, "click"], ["bgcolor", "green", "pTooltip", "\u9A45\u9B54\u5E2B + \u6EAB\u8482\u59AE", 3, "click"], ["bgcolor", "red", "pTooltip", "\u897F\u723E\u8299 + \u6697\u5F71", 3, "click"], ["bgcolor", "red", "pTooltip", "\u58AE\u843D\u4FEE\u5973 + \u6697\u5F71", 3, "click"], ["bgcolor", "blue", "pTooltip", "\u5973\u6B66\u795E + \u9A45\u9B54\u5E2B", 3, "click"], [1, "p-inputgroup"], [1, "p-inputgroup-addon"], ["type", "text", "pInputText", "", "placeholder", "\u9700\u6C42\u91CF", 2, "width", "20%", 3, "ngModel", "ngModelChange"], ["mode", "decimal", "inputId", "minmax-buttons", 3, "ngModel", "showButtons", "min", "max", "ngModelChange"], ["pButton", "", "pRipple", "", "type", "button", "label", "\u6E05\u96F6", 1, "p-button-outlined", "p-button-danger", 3, "click"], ["src", "assets/gameicon.png", "height", "40", 1, "p-mr-2"], [2, "text-align", "center", "width", "12%"], ["type", "text", "field", "name", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], [2, "text-align", "center", "width", "8%"], ["type", "text", "field", "star", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "basejob", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "element", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "class", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "debuff1", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], ["type", "text", "field", "debuff2", "display", "menu", 3, "showAddButton", "showOperator", "showMatchModes"], [2, "text-align", "center", "width", "6%"], ["width", "35", 3, "src"], [2, "text-align", "center"], ["pButton", "", "pRipple", "", "type", "button", "icon", "pi pi-user", 1, "p-button-secondary", "p-button-outlined", 2, "width", "50%", 3, "click"], ["pButton", "", "pRipple", "", "type", "button", "icon", "pi pi-plus", 1, "p-button-secondary", "p-button-outlined", 2, "width", "50%", 3, "click"], [4, "ngIf"], [1, "country-item"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](2, "p-menubar", 2);
@@ -2215,11 +2247,6 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](695, "button", 140);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("click", function AppComponent_Template_button_click_695_listener() { return ctx.clean(); });
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](696, "div", 141);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](697, "div", 32);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](698, " \u7A7A\u767D\u5340\u57DF ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
