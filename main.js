@@ -792,8 +792,8 @@ class AppComponent {
                     { label: '圖鑑的篩選器可以多個同時使用', icon: 'pi pi-bell' },
                     { label: '減益1跟減益2是按照該腳色', icon: 'pi pi-bell' },
                     { label: '的技能順序做排序', icon: 'pi pi-bell' },
-                    { label: '所以可能前面有英雄遲緩，後面也有', icon: 'pi pi-bell' },
-                    { label: '後面有英雄也有遲緩', icon: 'pi pi-bell' },
+                    { label: '所以可能前面有英雄遲緩', icon: 'pi pi-bell' },
+                    { label: '後面也有英雄也有遲緩', icon: 'pi pi-bell' },
                     { label: '空白就是沒減益效果', icon: 'pi pi-bell' },
                     { label: '後面的加號可以加進隊伍', icon: 'pi pi-bell' }
                 ]
