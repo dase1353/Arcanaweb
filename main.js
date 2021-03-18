@@ -1369,8 +1369,8 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](201, "\u6697\u9ED1\u8853\u5E2B");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](202, "td", 70);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("click", function AppComponent_Template_td_click_202_listener() { return ctx.Tputinslot("\u55DC\u9B42\u8005"); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](203, "\u55DC\u9B42\u8005");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("click", function AppComponent_Template_td_click_202_listener() { return ctx.Tputinslot("\u566C\u9B42\u8005"); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](203, "\u566C\u9B42\u8005");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](204, "td");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](205, "-");
