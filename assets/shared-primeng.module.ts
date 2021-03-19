@@ -15,9 +15,10 @@ import { SelectButtonModule } from 'primeng/selectbutton';
 import { SplitButtonModule } from 'primeng/splitbutton';
 import { TableModule } from 'primeng/table';
 import { TooltipModule } from 'primeng/tooltip';
+import { BadgeModule } from 'primeng/badge';
 
 const modules = [
-  ButtonModule, ChipModule, DialogModule, DropdownModule, InputNumberModule, InputTextModule,
+  ButtonModule, BadgeModule, ChipModule, DialogModule, DropdownModule, InputNumberModule, InputTextModule,
   KeyFilterModule, MegaMenuModule, MenubarModule, MenuModule, RatingModule, RippleModule,
   SelectButtonModule, SplitButtonModule, TableModule, TooltipModule
 
